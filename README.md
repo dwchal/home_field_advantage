@@ -5,7 +5,8 @@ A daily-updated project that evaluates home field advantage in major U.S. profes
 ## Current MVP scope
 
 - Data model for normalized game-level records.
-- Local ingest from CSV drop files (`data/raw/<league>_games.csv`).
+- Automated ingest from API data sources into CSV drop files (`data/raw/<league>_games.csv`).
+- Local CSV ingest for manual overrides/fallback.
 - Processing into a canonical dataset (`data/processed/games.csv`).
 - League and team home-field metrics.
 - Markdown report generation in `reports/`.
@@ -16,17 +17,22 @@ A daily-updated project that evaluates home field advantage in major U.S. profes
 - `src/home_field_advantage/`: core modules (ingest, transform, analyze, report).
 - `scripts/run_daily.py`: end-to-end daily pipeline.
 - `config/leagues.yaml`: enabled leagues.
+- `config/api_sources.json`: API endpoints and auth env var names for automated ingest.
 - `data/raw/`: source files per league.
 - `data/processed/`: cleaned canonical tables.
 - `reports/`: generated markdown reports.
 
 ## Quick start
 
+1. Configure API endpoints in `config/api_sources.json` (one source per league).
+2. Optionally set bearer token environment variables referenced by `token_env`.
+3. Run:
+
 ```bash
 python3 scripts/run_daily.py
 ```
 
-If no raw CSV files are present, the script still creates an empty processed file and a report describing the no-data state.
+If API sources are not configured, the script falls back to local files in `data/raw/`. If no raw CSV files are present, it still creates an empty processed file and a report describing the no-data state.
 
 ## Expected raw CSV columns
 
