@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "league": "nfl",
+      "url": "",
+      "format": "csv",
+      "token_env": null,
+      "query": {}
+    },
+    {
+      "league": "nba",
+      "url": "",
+      "format": "csv",
+      "token_env": null,
+      "query": {}
+    },
+    {
+      "league": "mlb",
+      "url": "",
+      "format": "csv",
+      "token_env": null,
+      "query": {}
+    },
+    {
+      "league": "nhl",
+      "url": "",
+      "format": "csv",
+      "token_env": null,
+      "query": {}
+    }
+  ]
+}
