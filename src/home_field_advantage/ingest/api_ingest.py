@@ -72,25 +72,39 @@ def _adapt_mlb_statsapi(raw_bytes: bytes) -> list[dict[str, Any]]:
     return records
 
 
-def _adapt_nhl_statsapi(raw_bytes: bytes) -> list[dict[str, Any]]:
-    """NHL Stats API: statsapi.web.nhl.com/api/v1/schedule"""
+def _adapt_nhl_api_web(raw_bytes: bytes) -> list[dict[str, Any]]:
+    """NHL API (api-web.nhle.com): /v1/schedule/now or /v1/schedule/{date}"""
     payload = json.loads(raw_bytes.decode("utf-8"))
     records: list[dict[str, Any]] = []
-    for date_entry in payload.get("dates", []):
-        for game in date_entry.get("games", []):
-            home = game.get("teams", {}).get("home", {})
-            away = game.get("teams", {}).get("away", {})
-            if home.get("score") is None or away.get("score") is None:
-                continue  # game not yet played
+    for day in payload.get("gameWeek", []):
+        for game in day.get("games", []):
+            if game.get("gameState") in ("FUT", "PRE"):
+                continue  # not yet played
+            home = game.get("homeTeam", {})
+            away = game.get("awayTeam", {})
+            home_score = home.get("score")
+            away_score = away.get("score")
+            if home_score is None or away_score is None:
+                continue
+            home_name = (
+                home.get("placeName", {}).get("default", "")
+                + " "
+                + home.get("commonName", {}).get("default", "")
+            ).strip() or home.get("abbrev", "")
+            away_name = (
+                away.get("placeName", {}).get("default", "")
+                + " "
+                + away.get("commonName", {}).get("default", "")
+            ).strip() or away.get("abbrev", "")
             records.append({
-                "game_id": str(game["gamePk"]),
-                "date": game["gameDate"][:10],
+                "game_id": str(game["id"]),
+                "date": game.get("gameDate", day.get("date", ""))[:10],
                 "season": str(game.get("season", "")),
-                "home_team": home.get("team", {}).get("name", ""),
-                "away_team": away.get("team", {}).get("name", ""),
-                "home_score": int(home["score"]),
-                "away_score": int(away["score"]),
-                "neutral_site": "false",
+                "home_team": home_name,
+                "away_team": away_name,
+                "home_score": int(home_score),
+                "away_score": int(away_score),
+                "neutral_site": "true" if game.get("neutralSite") else "false",
             })
     return records
 
@@ -152,7 +166,7 @@ def _adapt_nfl_espn(raw_bytes: bytes) -> list[dict[str, Any]]:
 
 _ADAPTERS: dict[str, Callable[[bytes], list[dict[str, Any]]]] = {
     "mlb_statsapi": _adapt_mlb_statsapi,
-    "nhl_statsapi": _adapt_nhl_statsapi,
+    "nhl_api_web": _adapt_nhl_api_web,
     "nba_balldontlie": _adapt_nba_balldontlie,
     "nfl_espn": _adapt_nfl_espn,
 }
@@ -245,7 +259,11 @@ def fetch_api_source(source: APISource, raw_dir: Path) -> Path:
 
 
 def sync_api_sources(sources: list[APISource], raw_dir: Path) -> list[Path]:
+    import sys
     output_files: list[Path] = []
     for source in sources:
-        output_files.append(fetch_api_source(source, raw_dir))
+        try:
+            output_files.append(fetch_api_source(source, raw_dir))
+        except Exception as exc:
+            print(f"WARNING: skipping {source.league} ({exc})", file=sys.stderr)
     return output_files

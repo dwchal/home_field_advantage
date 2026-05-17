@@ -49,10 +49,10 @@ Each `data/raw/<league>_games.csv` file should include:
 
 ## Raspberry Pi daily automation (cron)
 
-Example crontab entry (run at 8:00 UTC daily):
+`scripts/run_and_push.sh` runs the pipeline and automatically commits and pushes the report to GitHub. Example crontab entry (run at 8:00 UTC daily):
 
 ```cron
-0 8 * * * cd /path/to/home_field_advantage && /usr/bin/python3 scripts/run_daily.py >> logs/daily.log 2>&1
+0 8 * * * bash /path/to/home_field_advantage/scripts/run_and_push.sh
 ```
 
-Then add a post-run `git add/commit/push` wrapper script when you're ready to automate publishing to GitHub.
+See [DEPLOY.md](DEPLOY.md) for full setup instructions including SSH key auth and environment variables.

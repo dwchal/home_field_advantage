@@ -13,7 +13,7 @@
       "league": "nba",
       "url": "https://api.balldontlie.io/v1/games",
       "format": "json",
-      "token_env": null,
+      "token_env": "BALLDONTLIE_API_KEY",
       "query": {"seasons[]": "2025", "per_page": "100"},
       "adapter": "nba_balldontlie",
       "paginated": true
@@ -29,11 +29,11 @@
     },
     {
       "league": "nhl",
-      "url": "https://statsapi.web.nhl.com/api/v1/schedule",
+      "url": "https://api-web.nhle.com/v1/schedule/now",
       "format": "json",
       "token_env": null,
-      "query": {"season": "20252026", "gameType": "R"},
-      "adapter": "nhl_statsapi",
+      "query": null,
+      "adapter": "nhl_api_web",
       "paginated": false
     }
   ]

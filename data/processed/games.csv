@@ -1,1 +1,986 @@
 game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_site
+401772510,2025-09-05,NFL,2025,Philadelphia Eagles,Dallas Cowboys,24,20,False
+401772714,2025-09-06,NFL,2025,Los Angeles Chargers,Kansas City Chiefs,27,21,True
+401772718,2025-09-07,NFL,2025,New Orleans Saints,Arizona Cardinals,13,20,False
+401772719,2025-09-07,NFL,2025,Indianapolis Colts,Miami Dolphins,33,8,False
+401772720,2025-09-07,NFL,2025,New England Patriots,Las Vegas Raiders,13,20,False
+401772721,2025-09-07,NFL,2025,New York Jets,Pittsburgh Steelers,32,34,False
+401772722,2025-09-07,NFL,2025,Green Bay Packers,Detroit Lions,27,13,False
+401772723,2025-09-07,NFL,2025,Los Angeles Rams,Houston Texans,14,9,False
+401772827,2025-09-07,NFL,2025,Washington Commanders,New York Giants,21,6,False
+401772828,2025-09-07,NFL,2025,Jacksonville Jaguars,Carolina Panthers,26,10,False
+401772829,2025-09-07,NFL,2025,Cleveland Browns,Cincinnati Bengals,16,17,False
+401772830,2025-09-07,NFL,2025,Atlanta Falcons,Tampa Bay Buccaneers,20,23,False
+401772831,2025-09-07,NFL,2025,Seattle Seahawks,San Francisco 49ers,13,17,False
+401772832,2025-09-07,NFL,2025,Denver Broncos,Tennessee Titans,20,12,False
+401772918,2025-09-08,NFL,2025,Buffalo Bills,Baltimore Ravens,41,40,False
+401772810,2025-09-09,NFL,2025,Chicago Bears,Minnesota Vikings,24,27,False
+401772936,2025-09-12,NFL,2025,Green Bay Packers,Washington Commanders,27,18,False
+401772724,2025-09-14,NFL,2025,Tennessee Titans,Los Angeles Rams,19,33,False
+401772725,2025-09-14,NFL,2025,Cincinnati Bengals,Jacksonville Jaguars,31,27,False
+401772726,2025-09-14,NFL,2025,Baltimore Ravens,Cleveland Browns,41,17,False
+401772727,2025-09-14,NFL,2025,New York Jets,Buffalo Bills,10,30,False
+401772728,2025-09-14,NFL,2025,Miami Dolphins,New England Patriots,27,33,False
+401772729,2025-09-14,NFL,2025,Indianapolis Colts,Denver Broncos,29,28,False
+401772730,2025-09-14,NFL,2025,Arizona Cardinals,Carolina Panthers,27,22,False
+401772833,2025-09-14,NFL,2025,New Orleans Saints,San Francisco 49ers,21,26,False
+401772834,2025-09-14,NFL,2025,Dallas Cowboys,New York Giants,40,37,False
+401772835,2025-09-14,NFL,2025,Detroit Lions,Chicago Bears,52,21,False
+401772836,2025-09-14,NFL,2025,Pittsburgh Steelers,Seattle Seahawks,17,31,False
+401772837,2025-09-14,NFL,2025,Kansas City Chiefs,Philadelphia Eagles,17,20,False
+401772715,2025-09-15,NFL,2025,Houston Texans,Tampa Bay Buccaneers,19,20,False
+401772919,2025-09-15,NFL,2025,Minnesota Vikings,Atlanta Falcons,6,22,False
+401772811,2025-09-16,NFL,2025,Las Vegas Raiders,Los Angeles Chargers,9,20,False
+401772937,2025-09-19,NFL,2025,Buffalo Bills,Miami Dolphins,31,21,False
+401772731,2025-09-21,NFL,2025,Minnesota Vikings,Cincinnati Bengals,48,10,False
+401772732,2025-09-21,NFL,2025,New England Patriots,Pittsburgh Steelers,14,21,False
+401772733,2025-09-21,NFL,2025,Tennessee Titans,Indianapolis Colts,20,41,False
+401772734,2025-09-21,NFL,2025,Jacksonville Jaguars,Houston Texans,17,10,False
+401772735,2025-09-21,NFL,2025,Los Angeles Chargers,Denver Broncos,23,20,False
+401772736,2025-09-21,NFL,2025,Seattle Seahawks,New Orleans Saints,44,13,False
+401772838,2025-09-21,NFL,2025,Carolina Panthers,Atlanta Falcons,30,0,False
+401772839,2025-09-21,NFL,2025,Philadelphia Eagles,Los Angeles Rams,33,26,False
+401772840,2025-09-21,NFL,2025,Tampa Bay Buccaneers,New York Jets,29,27,False
+401772841,2025-09-21,NFL,2025,Washington Commanders,Las Vegas Raiders,41,24,False
+401772842,2025-09-21,NFL,2025,Cleveland Browns,Green Bay Packers,13,10,False
+401772843,2025-09-21,NFL,2025,San Francisco 49ers,Arizona Cardinals,16,15,False
+401772844,2025-09-21,NFL,2025,Chicago Bears,Dallas Cowboys,31,14,False
+401772920,2025-09-22,NFL,2025,New York Giants,Kansas City Chiefs,9,22,False
+401772812,2025-09-23,NFL,2025,Baltimore Ravens,Detroit Lions,30,38,False
+401772938,2025-09-26,NFL,2025,Arizona Cardinals,Seattle Seahawks,20,23,False
+401772632,2025-09-28,NFL,2025,Pittsburgh Steelers,Minnesota Vikings,24,21,True
+401772737,2025-09-28,NFL,2025,New York Giants,Los Angeles Chargers,21,18,False
+401772738,2025-09-28,NFL,2025,Houston Texans,Tennessee Titans,26,0,False
+401772739,2025-09-28,NFL,2025,Atlanta Falcons,Washington Commanders,34,27,False
+401772740,2025-09-28,NFL,2025,Buffalo Bills,New Orleans Saints,31,19,False
+401772741,2025-09-28,NFL,2025,Kansas City Chiefs,Baltimore Ravens,37,20,False
+401772742,2025-09-28,NFL,2025,Las Vegas Raiders,Chicago Bears,24,25,False
+401772845,2025-09-28,NFL,2025,Tampa Bay Buccaneers,Philadelphia Eagles,25,31,False
+401772846,2025-09-28,NFL,2025,Detroit Lions,Cleveland Browns,34,10,False
+401772847,2025-09-28,NFL,2025,New England Patriots,Carolina Panthers,42,13,False
+401772848,2025-09-28,NFL,2025,San Francisco 49ers,Jacksonville Jaguars,21,26,False
+401772849,2025-09-28,NFL,2025,Los Angeles Rams,Indianapolis Colts,27,20,False
+401772813,2025-09-29,NFL,2025,Miami Dolphins,New York Jets,27,21,False
+401772921,2025-09-29,NFL,2025,Dallas Cowboys,Green Bay Packers,40,40,False
+401772716,2025-09-30,NFL,2025,Denver Broncos,Cincinnati Bengals,28,3,False
+401772939,2025-10-03,NFL,2025,Los Angeles Rams,San Francisco 49ers,23,26,False
+401772633,2025-10-05,NFL,2025,Cleveland Browns,Minnesota Vikings,17,21,True
+401772743,2025-10-05,NFL,2025,Baltimore Ravens,Houston Texans,10,44,False
+401772744,2025-10-05,NFL,2025,New Orleans Saints,New York Giants,26,14,False
+401772745,2025-10-05,NFL,2025,Philadelphia Eagles,Denver Broncos,17,21,False
+401772746,2025-10-05,NFL,2025,Seattle Seahawks,Tampa Bay Buccaneers,35,38,False
+401772747,2025-10-05,NFL,2025,Arizona Cardinals,Tennessee Titans,21,22,False
+401772850,2025-10-05,NFL,2025,New York Jets,Dallas Cowboys,22,37,False
+401772851,2025-10-05,NFL,2025,Indianapolis Colts,Las Vegas Raiders,40,6,False
+401772852,2025-10-05,NFL,2025,Carolina Panthers,Miami Dolphins,27,24,False
+401772853,2025-10-05,NFL,2025,Los Angeles Chargers,Washington Commanders,10,27,False
+401772854,2025-10-05,NFL,2025,Cincinnati Bengals,Detroit Lions,24,37,False
+401772922,2025-10-06,NFL,2025,Buffalo Bills,New England Patriots,20,23,False
+401772814,2025-10-07,NFL,2025,Jacksonville Jaguars,Kansas City Chiefs,31,28,False
+401772940,2025-10-10,NFL,2025,New York Giants,Philadelphia Eagles,34,17,False
+401772634,2025-10-12,NFL,2025,New York Jets,Denver Broncos,11,13,True
+401772748,2025-10-12,NFL,2025,Pittsburgh Steelers,Cleveland Browns,23,9,False
+401772749,2025-10-12,NFL,2025,Tampa Bay Buccaneers,San Francisco 49ers,30,19,False
+401772750,2025-10-12,NFL,2025,Miami Dolphins,Los Angeles Chargers,27,29,False
+401772751,2025-10-12,NFL,2025,New Orleans Saints,New England Patriots,19,25,False
+401772752,2025-10-12,NFL,2025,Green Bay Packers,Cincinnati Bengals,27,18,False
+401772855,2025-10-12,NFL,2025,Baltimore Ravens,Los Angeles Rams,3,17,False
+401772856,2025-10-12,NFL,2025,Indianapolis Colts,Arizona Cardinals,31,27,False
+401772857,2025-10-12,NFL,2025,Jacksonville Jaguars,Seattle Seahawks,12,20,False
+401772858,2025-10-12,NFL,2025,Carolina Panthers,Dallas Cowboys,30,27,False
+401772859,2025-10-12,NFL,2025,Las Vegas Raiders,Tennessee Titans,20,10,False
+401772815,2025-10-13,NFL,2025,Atlanta Falcons,Buffalo Bills,24,14,False
+401772923,2025-10-13,NFL,2025,Kansas City Chiefs,Detroit Lions,30,17,False
+401772717,2025-10-14,NFL,2025,Washington Commanders,Chicago Bears,24,25,False
+401772941,2025-10-17,NFL,2025,Cincinnati Bengals,Pittsburgh Steelers,33,31,False
+401772635,2025-10-19,NFL,2025,Jacksonville Jaguars,Los Angeles Rams,7,35,True
+401772753,2025-10-19,NFL,2025,Kansas City Chiefs,Las Vegas Raiders,31,0,False
+401772754,2025-10-19,NFL,2025,Cleveland Browns,Miami Dolphins,31,6,False
+401772755,2025-10-19,NFL,2025,Tennessee Titans,New England Patriots,13,31,False
+401772756,2025-10-19,NFL,2025,Los Angeles Chargers,Indianapolis Colts,24,38,False
+401772757,2025-10-19,NFL,2025,Denver Broncos,New York Giants,33,32,False
+401772860,2025-10-19,NFL,2025,New York Jets,Carolina Panthers,6,13,False
+401772861,2025-10-19,NFL,2025,Chicago Bears,New Orleans Saints,26,14,False
+401772862,2025-10-19,NFL,2025,Minnesota Vikings,Philadelphia Eagles,22,28,False
+401772863,2025-10-19,NFL,2025,Arizona Cardinals,Green Bay Packers,23,27,False
+401772864,2025-10-19,NFL,2025,Dallas Cowboys,Washington Commanders,44,22,False
+401772816,2025-10-20,NFL,2025,Detroit Lions,Tampa Bay Buccaneers,24,9,False
+401772924,2025-10-20,NFL,2025,San Francisco 49ers,Atlanta Falcons,20,10,False
+401772826,2025-10-21,NFL,2025,Seattle Seahawks,Houston Texans,27,19,False
+401772942,2025-10-24,NFL,2025,Los Angeles Chargers,Minnesota Vikings,37,10,False
+401772758,2025-10-26,NFL,2025,Cincinnati Bengals,New York Jets,38,39,False
+401772759,2025-10-26,NFL,2025,Baltimore Ravens,Chicago Bears,30,16,False
+401772760,2025-10-26,NFL,2025,Atlanta Falcons,Miami Dolphins,10,34,False
+401772761,2025-10-26,NFL,2025,Indianapolis Colts,Tennessee Titans,38,14,False
+401772762,2025-10-26,NFL,2025,Denver Broncos,Dallas Cowboys,44,24,False
+401772865,2025-10-26,NFL,2025,Carolina Panthers,Buffalo Bills,9,40,False
+401772866,2025-10-26,NFL,2025,Houston Texans,San Francisco 49ers,26,15,False
+401772867,2025-10-26,NFL,2025,Philadelphia Eagles,New York Giants,38,20,False
+401772868,2025-10-26,NFL,2025,New England Patriots,Cleveland Browns,32,13,False
+401772869,2025-10-26,NFL,2025,New Orleans Saints,Tampa Bay Buccaneers,3,23,False
+401772925,2025-10-27,NFL,2025,Pittsburgh Steelers,Green Bay Packers,25,35,False
+401772817,2025-10-28,NFL,2025,Kansas City Chiefs,Washington Commanders,28,7,False
+401772943,2025-10-31,NFL,2025,Miami Dolphins,Baltimore Ravens,6,28,False
+401772763,2025-11-02,NFL,2025,New England Patriots,Atlanta Falcons,24,23,False
+401772764,2025-11-02,NFL,2025,Tennessee Titans,Los Angeles Chargers,20,27,False
+401772765,2025-11-02,NFL,2025,Cincinnati Bengals,Chicago Bears,42,47,False
+401772766,2025-11-02,NFL,2025,Pittsburgh Steelers,Indianapolis Colts,27,20,False
+401772767,2025-11-02,NFL,2025,New York Giants,San Francisco 49ers,24,34,False
+401772768,2025-11-02,NFL,2025,Buffalo Bills,Kansas City Chiefs,28,21,False
+401772870,2025-11-02,NFL,2025,Houston Texans,Denver Broncos,15,18,False
+401772871,2025-11-02,NFL,2025,Detroit Lions,Minnesota Vikings,24,27,False
+401772872,2025-11-02,NFL,2025,Green Bay Packers,Carolina Panthers,13,16,False
+401772873,2025-11-02,NFL,2025,Las Vegas Raiders,Jacksonville Jaguars,29,30,False
+401772874,2025-11-02,NFL,2025,Los Angeles Rams,New Orleans Saints,34,10,False
+401772926,2025-11-03,NFL,2025,Washington Commanders,Seattle Seahawks,14,38,False
+401772818,2025-11-04,NFL,2025,Dallas Cowboys,Arizona Cardinals,17,27,False
+401772944,2025-11-07,NFL,2025,Denver Broncos,Las Vegas Raiders,10,7,False
+401772636,2025-11-09,NFL,2025,Indianapolis Colts,Atlanta Falcons,31,25,True
+401772769,2025-11-09,NFL,2025,New York Jets,Cleveland Browns,27,20,False
+401772770,2025-11-09,NFL,2025,Houston Texans,Jacksonville Jaguars,36,29,False
+401772771,2025-11-09,NFL,2025,Miami Dolphins,Buffalo Bills,30,13,False
+401772772,2025-11-09,NFL,2025,Tampa Bay Buccaneers,New England Patriots,23,28,False
+401772773,2025-11-09,NFL,2025,Seattle Seahawks,Arizona Cardinals,44,22,False
+401772875,2025-11-09,NFL,2025,Chicago Bears,New York Giants,24,20,False
+401772876,2025-11-09,NFL,2025,Minnesota Vikings,Baltimore Ravens,19,27,False
+401772877,2025-11-09,NFL,2025,Carolina Panthers,New Orleans Saints,7,17,False
+401772878,2025-11-09,NFL,2025,Washington Commanders,Detroit Lions,22,44,False
+401772879,2025-11-09,NFL,2025,San Francisco 49ers,Los Angeles Rams,26,42,False
+401772927,2025-11-10,NFL,2025,Los Angeles Chargers,Pittsburgh Steelers,25,10,False
+401772630,2025-11-11,NFL,2025,Green Bay Packers,Philadelphia Eagles,7,10,False
+401772945,2025-11-14,NFL,2025,New England Patriots,New York Jets,27,14,False
+401772631,2025-11-16,NFL,2025,Miami Dolphins,Washington Commanders,16,13,True
+401772774,2025-11-16,NFL,2025,Pittsburgh Steelers,Cincinnati Bengals,34,12,False
+401772775,2025-11-16,NFL,2025,Jacksonville Jaguars,Los Angeles Chargers,35,6,False
+401772776,2025-11-16,NFL,2025,Buffalo Bills,Tampa Bay Buccaneers,44,32,False
+401772777,2025-11-16,NFL,2025,Cleveland Browns,Baltimore Ravens,16,23,False
+401772778,2025-11-16,NFL,2025,Denver Broncos,Kansas City Chiefs,22,19,False
+401772880,2025-11-16,NFL,2025,Minnesota Vikings,Chicago Bears,17,19,False
+401772881,2025-11-16,NFL,2025,Tennessee Titans,Houston Texans,13,16,False
+401772882,2025-11-16,NFL,2025,Atlanta Falcons,Carolina Panthers,27,30,False
+401772883,2025-11-16,NFL,2025,New York Giants,Green Bay Packers,20,27,False
+401772884,2025-11-16,NFL,2025,Los Angeles Rams,Seattle Seahawks,21,19,False
+401772885,2025-11-16,NFL,2025,Arizona Cardinals,San Francisco 49ers,22,41,False
+401772928,2025-11-17,NFL,2025,Philadelphia Eagles,Detroit Lions,16,9,False
+401772819,2025-11-18,NFL,2025,Las Vegas Raiders,Dallas Cowboys,16,33,False
+401772946,2025-11-21,NFL,2025,Houston Texans,Buffalo Bills,23,19,False
+401772779,2025-11-23,NFL,2025,Kansas City Chiefs,Indianapolis Colts,23,20,False
+401772780,2025-11-23,NFL,2025,Chicago Bears,Pittsburgh Steelers,31,28,False
+401772781,2025-11-23,NFL,2025,Cincinnati Bengals,New England Patriots,20,26,False
+401772782,2025-11-23,NFL,2025,Baltimore Ravens,New York Jets,23,10,False
+401772783,2025-11-23,NFL,2025,Arizona Cardinals,Jacksonville Jaguars,24,27,False
+401772784,2025-11-23,NFL,2025,Las Vegas Raiders,Cleveland Browns,10,24,False
+401772886,2025-11-23,NFL,2025,Tennessee Titans,Seattle Seahawks,24,30,False
+401772887,2025-11-23,NFL,2025,Green Bay Packers,Minnesota Vikings,23,6,False
+401772888,2025-11-23,NFL,2025,Detroit Lions,New York Giants,34,27,False
+401772889,2025-11-23,NFL,2025,New Orleans Saints,Atlanta Falcons,10,24,False
+401772890,2025-11-23,NFL,2025,Dallas Cowboys,Philadelphia Eagles,24,21,False
+401772929,2025-11-24,NFL,2025,Los Angeles Rams,Tampa Bay Buccaneers,34,7,False
+401772820,2025-11-25,NFL,2025,San Francisco 49ers,Carolina Panthers,20,9,False
+401772694,2025-11-27,NFL,2025,Dallas Cowboys,Kansas City Chiefs,31,28,False
+401772891,2025-11-27,NFL,2025,Detroit Lions,Green Bay Packers,24,31,False
+401772621,2025-11-28,NFL,2025,Philadelphia Eagles,Chicago Bears,15,24,False
+401772930,2025-11-28,NFL,2025,Baltimore Ravens,Cincinnati Bengals,14,32,False
+401772785,2025-11-30,NFL,2025,Cleveland Browns,San Francisco 49ers,8,26,False
+401772786,2025-11-30,NFL,2025,Tennessee Titans,Jacksonville Jaguars,3,25,False
+401772787,2025-11-30,NFL,2025,Indianapolis Colts,Houston Texans,16,20,False
+401772788,2025-11-30,NFL,2025,Los Angeles Chargers,Las Vegas Raiders,31,14,False
+401772789,2025-11-30,NFL,2025,Pittsburgh Steelers,Buffalo Bills,7,26,False
+401772892,2025-11-30,NFL,2025,Miami Dolphins,New Orleans Saints,21,17,False
+401772893,2025-11-30,NFL,2025,New York Jets,Atlanta Falcons,27,24,False
+401772894,2025-11-30,NFL,2025,Carolina Panthers,Los Angeles Rams,31,28,False
+401772895,2025-11-30,NFL,2025,Tampa Bay Buccaneers,Arizona Cardinals,20,17,False
+401772896,2025-11-30,NFL,2025,Seattle Seahawks,Minnesota Vikings,26,0,False
+401772931,2025-12-01,NFL,2025,Washington Commanders,Denver Broncos,26,27,False
+401772821,2025-12-02,NFL,2025,New England Patriots,New York Giants,33,15,False
+401772947,2025-12-05,NFL,2025,Detroit Lions,Dallas Cowboys,44,30,False
+401772790,2025-12-07,NFL,2025,New York Jets,Miami Dolphins,10,34,False
+401772791,2025-12-07,NFL,2025,Baltimore Ravens,Pittsburgh Steelers,22,27,False
+401772792,2025-12-07,NFL,2025,Tampa Bay Buccaneers,New Orleans Saints,20,24,False
+401772793,2025-12-07,NFL,2025,Jacksonville Jaguars,Indianapolis Colts,36,19,False
+401772794,2025-12-07,NFL,2025,Las Vegas Raiders,Denver Broncos,17,24,False
+401772897,2025-12-07,NFL,2025,Green Bay Packers,Chicago Bears,28,21,False
+401772898,2025-12-07,NFL,2025,Cleveland Browns,Tennessee Titans,29,31,False
+401772899,2025-12-07,NFL,2025,Minnesota Vikings,Washington Commanders,31,0,False
+401772900,2025-12-07,NFL,2025,Atlanta Falcons,Seattle Seahawks,9,37,False
+401772901,2025-12-07,NFL,2025,Arizona Cardinals,Los Angeles Rams,17,45,False
+401772902,2025-12-07,NFL,2025,Buffalo Bills,Cincinnati Bengals,39,34,False
+401772932,2025-12-08,NFL,2025,Kansas City Chiefs,Houston Texans,10,20,False
+401772822,2025-12-09,NFL,2025,Los Angeles Chargers,Philadelphia Eagles,22,19,False
+401772948,2025-12-12,NFL,2025,Tampa Bay Buccaneers,Atlanta Falcons,28,29,False
+401772795,2025-12-14,NFL,2025,New England Patriots,Buffalo Bills,31,35,False
+401772796,2025-12-14,NFL,2025,Cincinnati Bengals,Baltimore Ravens,0,24,False
+401772797,2025-12-14,NFL,2025,Jacksonville Jaguars,New York Jets,48,20,False
+401772798,2025-12-14,NFL,2025,Kansas City Chiefs,Los Angeles Chargers,13,16,False
+401772799,2025-12-14,NFL,2025,Seattle Seahawks,Indianapolis Colts,18,16,False
+401772800,2025-12-14,NFL,2025,Denver Broncos,Green Bay Packers,34,26,False
+401772903,2025-12-14,NFL,2025,Houston Texans,Arizona Cardinals,40,20,False
+401772904,2025-12-14,NFL,2025,Chicago Bears,Cleveland Browns,31,3,False
+401772905,2025-12-14,NFL,2025,New York Giants,Washington Commanders,21,29,False
+401772906,2025-12-14,NFL,2025,Philadelphia Eagles,Las Vegas Raiders,31,0,False
+401772907,2025-12-14,NFL,2025,San Francisco 49ers,Tennessee Titans,37,24,False
+401772908,2025-12-14,NFL,2025,New Orleans Saints,Carolina Panthers,20,17,False
+401772909,2025-12-14,NFL,2025,Los Angeles Rams,Detroit Lions,41,34,False
+401772933,2025-12-15,NFL,2025,Dallas Cowboys,Minnesota Vikings,26,34,False
+401772823,2025-12-16,NFL,2025,Pittsburgh Steelers,Miami Dolphins,28,15,False
+401772949,2025-12-19,NFL,2025,Seattle Seahawks,Los Angeles Rams,38,37,False
+401772612,2025-12-20,NFL,2025,Washington Commanders,Philadelphia Eagles,18,29,False
+401772613,2025-12-21,NFL,2025,Chicago Bears,Green Bay Packers,22,16,False
+401772801,2025-12-21,NFL,2025,New Orleans Saints,New York Jets,29,6,False
+401772802,2025-12-21,NFL,2025,Cleveland Browns,Buffalo Bills,20,23,False
+401772803,2025-12-21,NFL,2025,Tennessee Titans,Kansas City Chiefs,26,9,False
+401772805,2025-12-21,NFL,2025,Houston Texans,Las Vegas Raiders,23,21,False
+401772806,2025-12-21,NFL,2025,Detroit Lions,Pittsburgh Steelers,24,29,False
+401772910,2025-12-21,NFL,2025,Dallas Cowboys,Los Angeles Chargers,17,34,False
+401772911,2025-12-21,NFL,2025,New York Giants,Minnesota Vikings,13,16,False
+401772912,2025-12-21,NFL,2025,Carolina Panthers,Tampa Bay Buccaneers,23,20,False
+401772913,2025-12-21,NFL,2025,Denver Broncos,Jacksonville Jaguars,20,34,False
+401772914,2025-12-21,NFL,2025,Arizona Cardinals,Atlanta Falcons,19,26,False
+401772934,2025-12-21,NFL,2025,Miami Dolphins,Cincinnati Bengals,21,45,False
+401772804,2025-12-22,NFL,2025,Baltimore Ravens,New England Patriots,24,28,False
+401772824,2025-12-23,NFL,2025,Indianapolis Colts,San Francisco 49ers,27,48,False
+401772710,2025-12-25,NFL,2025,Washington Commanders,Dallas Cowboys,23,30,False
+401772711,2025-12-25,NFL,2025,Minnesota Vikings,Detroit Lions,23,10,False
+401772622,2025-12-26,NFL,2025,Kansas City Chiefs,Denver Broncos,13,20,False
+401772951,2025-12-27,NFL,2025,Los Angeles Chargers,Houston Texans,16,20,False
+401772807,2025-12-28,NFL,2025,Cleveland Browns,Pittsburgh Steelers,13,6,False
+401772808,2025-12-28,NFL,2025,New York Jets,New England Patriots,10,42,False
+401772809,2025-12-28,NFL,2025,Tennessee Titans,New Orleans Saints,26,34,False
+401772915,2025-12-28,NFL,2025,Indianapolis Colts,Jacksonville Jaguars,17,23,False
+401772916,2025-12-28,NFL,2025,Miami Dolphins,Tampa Bay Buccaneers,20,17,False
+401772917,2025-12-28,NFL,2025,Buffalo Bills,Philadelphia Eagles,12,13,False
+401772950,2025-12-28,NFL,2025,Las Vegas Raiders,New York Giants,10,34,False
+401772952,2025-12-28,NFL,2025,Carolina Panthers,Seattle Seahawks,10,27,False
+401772953,2025-12-28,NFL,2025,Green Bay Packers,Baltimore Ravens,24,41,False
+401772954,2025-12-28,NFL,2025,Cincinnati Bengals,Arizona Cardinals,37,14,False
+401772935,2025-12-29,NFL,2025,San Francisco 49ers,Chicago Bears,42,38,False
+401772825,2025-12-30,NFL,2025,Atlanta Falcons,Los Angeles Rams,27,24,False
+401772969,2026-01-03,NFL,2025,Tampa Bay Buccaneers,Carolina Panthers,16,14,False
+401772955,2026-01-04,NFL,2025,Los Angeles Rams,Arizona Cardinals,37,20,False
+401772956,2026-01-04,NFL,2025,Denver Broncos,Los Angeles Chargers,19,3,False
+401772957,2026-01-04,NFL,2025,Las Vegas Raiders,Kansas City Chiefs,14,12,False
+401772958,2026-01-04,NFL,2025,New England Patriots,Miami Dolphins,38,10,False
+401772959,2026-01-04,NFL,2025,Philadelphia Eagles,Washington Commanders,17,24,False
+401772961,2026-01-04,NFL,2025,San Francisco 49ers,Seattle Seahawks,3,13,False
+401772962,2026-01-04,NFL,2025,Houston Texans,Indianapolis Colts,38,30,False
+401772963,2026-01-04,NFL,2025,New York Giants,Dallas Cowboys,34,17,False
+401772964,2026-01-04,NFL,2025,Cincinnati Bengals,Cleveland Browns,18,20,False
+401772965,2026-01-04,NFL,2025,Chicago Bears,Detroit Lions,16,19,False
+401772966,2026-01-04,NFL,2025,Atlanta Falcons,New Orleans Saints,19,17,False
+401772967,2026-01-04,NFL,2025,Buffalo Bills,New York Jets,35,8,False
+401772968,2026-01-04,NFL,2025,Minnesota Vikings,Green Bay Packers,16,3,False
+401772970,2026-01-04,NFL,2025,Jacksonville Jaguars,Tennessee Titans,41,7,False
+401772960,2026-01-05,NFL,2025,Pittsburgh Steelers,Baltimore Ravens,26,24,False
+401772979,2026-01-10,NFL,2025,Carolina Panthers,Los Angeles Rams,31,34,False
+401772977,2026-01-11,NFL,2025,Jacksonville Jaguars,Buffalo Bills,24,27,False
+401772980,2026-01-11,NFL,2025,Philadelphia Eagles,San Francisco 49ers,19,23,False
+401772981,2026-01-11,NFL,2025,Chicago Bears,Green Bay Packers,31,27,False
+401772978,2026-01-12,NFL,2025,New England Patriots,Los Angeles Chargers,16,3,False
+401772976,2026-01-13,NFL,2025,Pittsburgh Steelers,Houston Texans,6,30,False
+401772982,2026-01-17,NFL,2025,Denver Broncos,Buffalo Bills,33,30,False
+401772983,2026-01-18,NFL,2025,New England Patriots,Houston Texans,28,16,False
+401772984,2026-01-18,NFL,2025,Seattle Seahawks,San Francisco 49ers,41,6,False
+401772985,2026-01-18,NFL,2025,Chicago Bears,Los Angeles Rams,17,20,False
+401772986,2026-01-25,NFL,2025,Denver Broncos,New England Patriots,7,10,False
+401772987,2026-01-25,NFL,2025,Seattle Seahawks,Los Angeles Rams,31,27,False
+401831718,2026-02-04,NFL,2025,AFC,NFC,52,66,True
+401772988,2026-02-08,NFL,2025,New England Patriots,Seattle Seahawks,13,29,True
+823244,2026-03-25,MLB,2026,San Francisco Giants,New York Yankees,0,7,False
+823081,2026-03-26,MLB,2026,St. Louis Cardinals,Tampa Bay Rays,9,7,False
+823163,2026-03-26,MLB,2026,Seattle Mariners,Cleveland Guardians,4,6,False
+823325,2026-03-26,MLB,2026,San Diego Padres,Detroit Tigers,2,8,False
+823486,2026-03-26,MLB,2026,Philadelphia Phillies,Texas Rangers,5,3,False
+823649,2026-03-26,MLB,2026,New York Mets,Pittsburgh Pirates,11,7,False
+823812,2026-03-26,MLB,2026,Milwaukee Brewers,Chicago White Sox,14,2,False
+823974,2026-03-26,MLB,2026,Los Angeles Dodgers,Arizona Diamondbacks,8,2,False
+824218,2026-03-26,MLB,2026,Houston Astros,Los Angeles Angels,0,3,False
+824541,2026-03-26,MLB,2026,Cincinnati Reds,Boston Red Sox,0,3,False
+824704,2026-03-26,MLB,2026,Chicago Cubs,Washington Nationals,4,10,False
+824865,2026-03-26,MLB,2026,Baltimore Orioles,Minnesota Twins,2,1,False
+822839,2026-03-27,MLB,2026,Toronto Blue Jays,Athletics,3,2,False
+823162,2026-03-27,MLB,2026,Seattle Mariners,Cleveland Guardians,5,1,False
+823243,2026-03-27,MLB,2026,San Francisco Giants,New York Yankees,0,3,False
+823324,2026-03-27,MLB,2026,San Diego Padres,Detroit Tigers,2,5,False
+823893,2026-03-27,MLB,2026,Miami Marlins,Colorado Rockies,2,1,False
+823971,2026-03-27,MLB,2026,Los Angeles Dodgers,Arizona Diamondbacks,5,4,False
+824216,2026-03-27,MLB,2026,Houston Astros,Los Angeles Angels,2,6,False
+824946,2026-03-27,MLB,2026,Atlanta Braves,Kansas City Royals,6,0,False
+822838,2026-03-28,MLB,2026,Toronto Blue Jays,Athletics,8,7,False
+823082,2026-03-28,MLB,2026,St. Louis Cardinals,Tampa Bay Rays,6,5,False
+823161,2026-03-28,MLB,2026,Seattle Mariners,Cleveland Guardians,5,6,False
+823241,2026-03-28,MLB,2026,San Francisco Giants,New York Yankees,1,3,False
+823323,2026-03-28,MLB,2026,San Diego Padres,Detroit Tigers,3,0,False
+823488,2026-03-28,MLB,2026,Philadelphia Phillies,Texas Rangers,4,5,False
+823651,2026-03-28,MLB,2026,New York Mets,Pittsburgh Pirates,4,2,False
+823811,2026-03-28,MLB,2026,Milwaukee Brewers,Chicago White Sox,6,1,False
+823892,2026-03-28,MLB,2026,Miami Marlins,Colorado Rockies,4,3,False
+823973,2026-03-28,MLB,2026,Los Angeles Dodgers,Arizona Diamondbacks,3,2,False
+824213,2026-03-28,MLB,2026,Houston Astros,Los Angeles Angels,11,9,False
+824540,2026-03-28,MLB,2026,Cincinnati Reds,Boston Red Sox,6,5,False
+824701,2026-03-28,MLB,2026,Chicago Cubs,Washington Nationals,10,2,False
+824862,2026-03-28,MLB,2026,Baltimore Orioles,Minnesota Twins,1,4,False
+824945,2026-03-28,MLB,2026,Atlanta Braves,Kansas City Royals,6,2,False
+822837,2026-03-29,MLB,2026,Toronto Blue Jays,Athletics,5,2,False
+823079,2026-03-29,MLB,2026,St. Louis Cardinals,Tampa Bay Rays,7,11,False
+823160,2026-03-29,MLB,2026,Seattle Mariners,Cleveland Guardians,8,0,False
+823487,2026-03-29,MLB,2026,Philadelphia Phillies,Texas Rangers,3,8,False
+823647,2026-03-29,MLB,2026,New York Mets,Pittsburgh Pirates,3,4,False
+823810,2026-03-29,MLB,2026,Milwaukee Brewers,Chicago White Sox,9,7,False
+823891,2026-03-29,MLB,2026,Miami Marlins,Colorado Rockies,4,3,False
+824215,2026-03-29,MLB,2026,Houston Astros,Los Angeles Angels,9,7,False
+824538,2026-03-29,MLB,2026,Cincinnati Reds,Boston Red Sox,3,2,False
+824700,2026-03-29,MLB,2026,Chicago Cubs,Washington Nationals,3,6,False
+824864,2026-03-29,MLB,2026,Baltimore Orioles,Minnesota Twins,8,6,False
+824944,2026-03-29,MLB,2026,Atlanta Braves,Kansas City Royals,1,4,False
+822834,2026-03-30,MLB,2026,Toronto Blue Jays,Colorado Rockies,5,14,False
+823080,2026-03-30,MLB,2026,St. Louis Cardinals,New York Mets,2,4,False
+823159,2026-03-30,MLB,2026,Seattle Mariners,New York Yankees,2,1,False
+823320,2026-03-30,MLB,2026,San Diego Padres,San Francisco Giants,2,3,False
+823484,2026-03-30,MLB,2026,Philadelphia Phillies,Washington Nationals,2,13,False
+823809,2026-03-30,MLB,2026,Milwaukee Brewers,Tampa Bay Rays,2,3,False
+823890,2026-03-30,MLB,2026,Miami Marlins,Chicago White Sox,4,9,False
+823972,2026-03-30,MLB,2026,Los Angeles Dodgers,Cleveland Guardians,2,4,False
+824135,2026-03-30,MLB,2026,Kansas City Royals,Minnesota Twins,3,1,False
+824214,2026-03-30,MLB,2026,Houston Astros,Boston Red Sox,8,1,False
+824539,2026-03-30,MLB,2026,Cincinnati Reds,Pittsburgh Pirates,2,0,False
+824702,2026-03-30,MLB,2026,Chicago Cubs,Los Angeles Angels,7,2,False
+824863,2026-03-30,MLB,2026,Baltimore Orioles,Texas Rangers,2,5,False
+824943,2026-03-30,MLB,2026,Atlanta Braves,Athletics,4,0,False
+825108,2026-03-30,MLB,2026,Arizona Diamondbacks,Detroit Tigers,9,6,False
+822836,2026-03-31,MLB,2026,Toronto Blue Jays,Colorado Rockies,5,1,False
+823077,2026-03-31,MLB,2026,St. Louis Cardinals,New York Mets,3,0,False
+823158,2026-03-31,MLB,2026,Seattle Mariners,New York Yankees,0,5,False
+823322,2026-03-31,MLB,2026,San Diego Padres,San Francisco Giants,3,9,False
+823485,2026-03-31,MLB,2026,Philadelphia Phillies,Washington Nationals,3,2,False
+823807,2026-03-31,MLB,2026,Milwaukee Brewers,Tampa Bay Rays,6,2,False
+823888,2026-03-31,MLB,2026,Miami Marlins,Chicago White Sox,9,2,False
+823969,2026-03-31,MLB,2026,Los Angeles Dodgers,Cleveland Guardians,4,1,False
+824212,2026-03-31,MLB,2026,Houston Astros,Boston Red Sox,9,2,False
+824537,2026-03-31,MLB,2026,Cincinnati Reds,Pittsburgh Pirates,3,8,False
+824699,2026-03-31,MLB,2026,Chicago Cubs,Los Angeles Angels,0,2,False
+824861,2026-03-31,MLB,2026,Baltimore Orioles,Texas Rangers,5,8,False
+824942,2026-03-31,MLB,2026,Atlanta Braves,Athletics,2,5,False
+825107,2026-03-31,MLB,2026,Arizona Diamondbacks,Detroit Tigers,7,5,False
+822835,2026-04-01,MLB,2026,Toronto Blue Jays,Colorado Rockies,1,2,False
+823078,2026-04-01,MLB,2026,St. Louis Cardinals,New York Mets,2,1,False
+823157,2026-04-01,MLB,2026,Seattle Mariners,New York Yankees,3,5,False
+823321,2026-04-01,MLB,2026,San Diego Padres,San Francisco Giants,7,1,False
+823483,2026-04-01,MLB,2026,Philadelphia Phillies,Washington Nationals,6,5,False
+823806,2026-04-01,MLB,2026,Milwaukee Brewers,Tampa Bay Rays,8,2,False
+823889,2026-04-01,MLB,2026,Miami Marlins,Chicago White Sox,10,0,False
+823970,2026-04-01,MLB,2026,Los Angeles Dodgers,Cleveland Guardians,1,4,False
+824136,2026-04-01,MLB,2026,Kansas City Royals,Minnesota Twins,13,9,False
+824211,2026-04-01,MLB,2026,Houston Astros,Boston Red Sox,6,4,False
+824536,2026-04-01,MLB,2026,Cincinnati Reds,Pittsburgh Pirates,3,8,False
+824698,2026-04-01,MLB,2026,Chicago Cubs,Los Angeles Angels,6,2,False
+824860,2026-04-01,MLB,2026,Baltimore Orioles,Texas Rangers,8,3,False
+824940,2026-04-01,MLB,2026,Atlanta Braves,Athletics,5,1,False
+825106,2026-04-01,MLB,2026,Arizona Diamondbacks,Detroit Tigers,1,0,False
+823242,2026-04-02,MLB,2026,San Francisco Giants,New York Mets,7,2,False
+824133,2026-04-02,MLB,2026,Kansas City Royals,Minnesota Twins,1,5,False
+825105,2026-04-02,MLB,2026,Arizona Diamondbacks,Atlanta Braves,2,17,False
+822758,2026-04-03,MLB,2026,Washington Nationals,Los Angeles Dodgers,6,13,False
+822919,2026-04-03,MLB,2026,Texas Rangers,Cincinnati Reds,3,5,False
+823240,2026-04-03,MLB,2026,San Francisco Giants,New York Mets,3,10,False
+823406,2026-04-03,MLB,2026,Pittsburgh Pirates,Baltimore Orioles,5,4,False
+823568,2026-04-03,MLB,2026,New York Yankees,Miami Marlins,8,2,False
+823732,2026-04-03,MLB,2026,Minnesota Twins,Tampa Bay Rays,10,4,False
+824056,2026-04-03,MLB,2026,Los Angeles Angels,Seattle Mariners,1,3,False
+824299,2026-04-03,MLB,2026,Detroit Tigers,St. Louis Cardinals,4,0,False
+824377,2026-04-03,MLB,2026,Colorado Rockies,Philadelphia Phillies,1,10,False
+824458,2026-04-03,MLB,2026,Cleveland Guardians,Chicago Cubs,4,1,False
+824621,2026-04-03,MLB,2026,Chicago White Sox,Toronto Blue Jays,5,4,False
+824786,2026-04-03,MLB,2026,Boston Red Sox,San Diego Padres,5,2,False
+825026,2026-04-03,MLB,2026,Athletics,Houston Astros,11,4,False
+825103,2026-04-03,MLB,2026,Arizona Diamondbacks,Atlanta Braves,0,2,False
+822757,2026-04-04,MLB,2026,Washington Nationals,Los Angeles Dodgers,5,10,False
+822920,2026-04-04,MLB,2026,Texas Rangers,Cincinnati Reds,0,2,False
+823239,2026-04-04,MLB,2026,San Francisco Giants,New York Mets,0,9,False
+823404,2026-04-04,MLB,2026,Pittsburgh Pirates,Baltimore Orioles,3,2,False
+823569,2026-04-04,MLB,2026,New York Yankees,Miami Marlins,9,7,False
+823730,2026-04-04,MLB,2026,Minnesota Twins,Tampa Bay Rays,1,7,False
+824054,2026-04-04,MLB,2026,Los Angeles Angels,Seattle Mariners,1,0,False
+824132,2026-04-04,MLB,2026,Kansas City Royals,Milwaukee Brewers,2,5,False
+824134,2026-04-04,MLB,2026,Kansas City Royals,Milwaukee Brewers,8,2,False
+824295,2026-04-04,MLB,2026,Detroit Tigers,St. Louis Cardinals,11,6,False
+824378,2026-04-04,MLB,2026,Colorado Rockies,Philadelphia Phillies,1,2,False
+824622,2026-04-04,MLB,2026,Chicago White Sox,Toronto Blue Jays,6,3,False
+824782,2026-04-04,MLB,2026,Boston Red Sox,San Diego Padres,2,3,False
+825027,2026-04-04,MLB,2026,Athletics,Houston Astros,0,11,False
+825104,2026-04-04,MLB,2026,Arizona Diamondbacks,Atlanta Braves,2,1,False
+822756,2026-04-05,MLB,2026,Washington Nationals,Los Angeles Dodgers,6,8,False
+822917,2026-04-05,MLB,2026,Texas Rangers,Cincinnati Reds,1,2,False
+823238,2026-04-05,MLB,2026,San Francisco Giants,New York Mets,2,5,False
+823405,2026-04-05,MLB,2026,Pittsburgh Pirates,Baltimore Orioles,8,2,False
+823566,2026-04-05,MLB,2026,New York Yankees,Miami Marlins,6,7,False
+823729,2026-04-05,MLB,2026,Minnesota Twins,Tampa Bay Rays,1,4,False
+824053,2026-04-05,MLB,2026,Los Angeles Angels,Seattle Mariners,8,7,False
+824131,2026-04-05,MLB,2026,Kansas City Royals,Milwaukee Brewers,5,8,False
+824296,2026-04-05,MLB,2026,Detroit Tigers,St. Louis Cardinals,3,5,False
+824379,2026-04-05,MLB,2026,Colorado Rockies,Philadelphia Phillies,4,1,False
+824459,2026-04-05,MLB,2026,Cleveland Guardians,Chicago Cubs,0,1,False
+824460,2026-04-05,MLB,2026,Cleveland Guardians,Chicago Cubs,6,5,False
+824620,2026-04-05,MLB,2026,Chicago White Sox,Toronto Blue Jays,3,0,False
+824781,2026-04-05,MLB,2026,Boston Red Sox,San Diego Padres,6,8,False
+825025,2026-04-05,MLB,2026,Athletics,Houston Astros,12,10,False
+825102,2026-04-05,MLB,2026,Arizona Diamondbacks,Atlanta Braves,6,5,False
+822755,2026-04-06,MLB,2026,Washington Nationals,St. Louis Cardinals,9,6,False
+822832,2026-04-06,MLB,2026,Toronto Blue Jays,Los Angeles Dodgers,2,14,False
+822918,2026-04-06,MLB,2026,Texas Rangers,Seattle Mariners,2,1,False
+823002,2026-04-06,MLB,2026,Tampa Bay Rays,Chicago Cubs,6,4,False
+823237,2026-04-06,MLB,2026,San Francisco Giants,Philadelphia Phillies,4,6,False
+823401,2026-04-06,MLB,2026,Pittsburgh Pirates,San Diego Padres,0,5,False
+823728,2026-04-06,MLB,2026,Minnesota Twins,Detroit Tigers,7,3,False
+823886,2026-04-06,MLB,2026,Miami Marlins,Cincinnati Reds,0,2,False
+824052,2026-04-06,MLB,2026,Los Angeles Angels,Atlanta Braves,6,2,False
+824376,2026-04-06,MLB,2026,Colorado Rockies,Houston Astros,9,7,False
+824456,2026-04-06,MLB,2026,Cleveland Guardians,Kansas City Royals,2,4,False
+824619,2026-04-06,MLB,2026,Chicago White Sox,Baltimore Orioles,1,2,False
+824783,2026-04-06,MLB,2026,Boston Red Sox,Milwaukee Brewers,6,8,False
+822754,2026-04-07,MLB,2026,Washington Nationals,St. Louis Cardinals,6,7,False
+822831,2026-04-07,MLB,2026,Toronto Blue Jays,Los Angeles Dodgers,1,4,False
+822916,2026-04-07,MLB,2026,Texas Rangers,Seattle Mariners,3,2,False
+822999,2026-04-07,MLB,2026,Tampa Bay Rays,Chicago Cubs,2,9,False
+823235,2026-04-07,MLB,2026,San Francisco Giants,Philadelphia Phillies,6,0,False
+823402,2026-04-07,MLB,2026,Pittsburgh Pirates,San Diego Padres,7,1,False
+823567,2026-04-07,MLB,2026,New York Yankees,Athletics,5,3,False
+823648,2026-04-07,MLB,2026,New York Mets,Arizona Diamondbacks,4,3,False
+823727,2026-04-07,MLB,2026,Minnesota Twins,Detroit Tigers,4,2,False
+823887,2026-04-07,MLB,2026,Miami Marlins,Cincinnati Reds,3,6,False
+824051,2026-04-07,MLB,2026,Los Angeles Angels,Atlanta Braves,2,7,False
+824375,2026-04-07,MLB,2026,Colorado Rockies,Houston Astros,5,1,False
+824457,2026-04-07,MLB,2026,Cleveland Guardians,Kansas City Royals,2,1,False
+824618,2026-04-07,MLB,2026,Chicago White Sox,Baltimore Orioles,2,4,False
+824780,2026-04-07,MLB,2026,Boston Red Sox,Milwaukee Brewers,3,2,False
+822753,2026-04-08,MLB,2026,Washington Nationals,St. Louis Cardinals,1,6,False
+822833,2026-04-08,MLB,2026,Toronto Blue Jays,Los Angeles Dodgers,4,3,False
+822915,2026-04-08,MLB,2026,Texas Rangers,Seattle Mariners,3,0,False
+823000,2026-04-08,MLB,2026,Tampa Bay Rays,Chicago Cubs,2,6,False
+823234,2026-04-08,MLB,2026,San Francisco Giants,Philadelphia Phillies,5,0,False
+823403,2026-04-08,MLB,2026,Pittsburgh Pirates,San Diego Padres,2,8,False
+823564,2026-04-08,MLB,2026,New York Yankees,Athletics,2,3,False
+823646,2026-04-08,MLB,2026,New York Mets,Arizona Diamondbacks,2,7,False
+823726,2026-04-08,MLB,2026,Minnesota Twins,Detroit Tigers,8,6,False
+823885,2026-04-08,MLB,2026,Miami Marlins,Cincinnati Reds,7,4,False
+824050,2026-04-08,MLB,2026,Los Angeles Angels,Atlanta Braves,2,8,False
+824374,2026-04-08,MLB,2026,Colorado Rockies,Houston Astros,9,1,False
+824455,2026-04-08,MLB,2026,Cleveland Guardians,Kansas City Royals,10,2,False
+824617,2026-04-08,MLB,2026,Chicago White Sox,Baltimore Orioles,3,5,False
+824779,2026-04-08,MLB,2026,Boston Red Sox,Milwaukee Brewers,5,0,False
+823319,2026-04-09,MLB,2026,San Diego Padres,Colorado Rockies,7,3,False
+823565,2026-04-09,MLB,2026,New York Yankees,Athletics,0,1,False
+823645,2026-04-09,MLB,2026,New York Mets,Arizona Diamondbacks,1,7,False
+823724,2026-04-09,MLB,2026,Minnesota Twins,Detroit Tigers,3,1,False
+823884,2026-04-09,MLB,2026,Miami Marlins,Cincinnati Reds,8,1,False
+824130,2026-04-09,MLB,2026,Kansas City Royals,Chicago White Sox,0,2,False
+822829,2026-04-10,MLB,2026,Toronto Blue Jays,Minnesota Twins,10,4,False
+822997,2026-04-10,MLB,2026,Tampa Bay Rays,New York Yankees,5,3,False
+823076,2026-04-10,MLB,2026,St. Louis Cardinals,Boston Red Sox,3,2,False
+823156,2026-04-10,MLB,2026,Seattle Mariners,Houston Astros,9,6,False
+823318,2026-04-10,MLB,2026,San Diego Padres,Colorado Rockies,5,2,False
+823482,2026-04-10,MLB,2026,Philadelphia Phillies,Arizona Diamondbacks,4,5,False
+823643,2026-04-10,MLB,2026,New York Mets,Athletics,0,4,False
+823808,2026-04-10,MLB,2026,Milwaukee Brewers,Washington Nationals,3,7,False
+823968,2026-04-10,MLB,2026,Los Angeles Dodgers,Texas Rangers,8,7,False
+824128,2026-04-10,MLB,2026,Kansas City Royals,Chicago White Sox,2,0,False
+824297,2026-04-10,MLB,2026,Detroit Tigers,Miami Marlins,2,0,False
+824534,2026-04-10,MLB,2026,Cincinnati Reds,Los Angeles Angels,2,10,False
+824695,2026-04-10,MLB,2026,Chicago Cubs,Pittsburgh Pirates,0,2,False
+824858,2026-04-10,MLB,2026,Baltimore Orioles,San Francisco Giants,3,6,False
+824941,2026-04-10,MLB,2026,Atlanta Braves,Cleveland Guardians,11,5,False
+822830,2026-04-11,MLB,2026,Toronto Blue Jays,Minnesota Twins,4,7,False
+822996,2026-04-11,MLB,2026,Tampa Bay Rays,New York Yankees,5,4,False
+823074,2026-04-11,MLB,2026,St. Louis Cardinals,Boston Red Sox,1,7,False
+823155,2026-04-11,MLB,2026,Seattle Mariners,Houston Astros,8,7,False
+823316,2026-04-11,MLB,2026,San Diego Padres,Colorado Rockies,9,5,False
+823480,2026-04-11,MLB,2026,Philadelphia Phillies,Arizona Diamondbacks,4,3,False
+823644,2026-04-11,MLB,2026,New York Mets,Athletics,6,11,False
+823805,2026-04-11,MLB,2026,Milwaukee Brewers,Washington Nationals,1,3,False
+823967,2026-04-11,MLB,2026,Los Angeles Dodgers,Texas Rangers,6,3,False
+824129,2026-04-11,MLB,2026,Kansas City Royals,Chicago White Sox,2,0,False
+824294,2026-04-11,MLB,2026,Detroit Tigers,Miami Marlins,6,1,False
+824535,2026-04-11,MLB,2026,Cincinnati Reds,Los Angeles Angels,7,3,False
+824697,2026-04-11,MLB,2026,Chicago Cubs,Pittsburgh Pirates,3,4,False
+824857,2026-04-11,MLB,2026,Baltimore Orioles,San Francisco Giants,6,2,False
+824939,2026-04-11,MLB,2026,Atlanta Braves,Cleveland Guardians,0,6,False
+822828,2026-04-12,MLB,2026,Toronto Blue Jays,Minnesota Twins,2,8,False
+822998,2026-04-12,MLB,2026,Tampa Bay Rays,New York Yankees,5,4,False
+823075,2026-04-12,MLB,2026,St. Louis Cardinals,Boston Red Sox,3,9,False
+823154,2026-04-12,MLB,2026,Seattle Mariners,Houston Astros,6,1,False
+823317,2026-04-12,MLB,2026,San Diego Padres,Colorado Rockies,7,2,False
+823479,2026-04-12,MLB,2026,Philadelphia Phillies,Arizona Diamondbacks,3,4,False
+823642,2026-04-12,MLB,2026,New York Mets,Athletics,0,1,False
+823804,2026-04-12,MLB,2026,Milwaukee Brewers,Washington Nationals,6,8,False
+823966,2026-04-12,MLB,2026,Los Angeles Dodgers,Texas Rangers,2,5,False
+824126,2026-04-12,MLB,2026,Kansas City Royals,Chicago White Sox,5,6,False
+824293,2026-04-12,MLB,2026,Detroit Tigers,Miami Marlins,8,2,False
+824533,2026-04-12,MLB,2026,Cincinnati Reds,Los Angeles Angels,6,9,False
+824696,2026-04-12,MLB,2026,Chicago Cubs,Pittsburgh Pirates,7,6,False
+824859,2026-04-12,MLB,2026,Baltimore Orioles,San Francisco Giants,6,2,False
+824938,2026-04-12,MLB,2026,Atlanta Braves,Cleveland Guardians,13,1,False
+823073,2026-04-13,MLB,2026,St. Louis Cardinals,Cleveland Guardians,3,9,False
+823153,2026-04-13,MLB,2026,Seattle Mariners,Houston Astros,6,2,False
+823400,2026-04-13,MLB,2026,Pittsburgh Pirates,Washington Nationals,16,5,False
+823481,2026-04-13,MLB,2026,Philadelphia Phillies,Chicago Cubs,13,7,False
+823563,2026-04-13,MLB,2026,New York Yankees,Los Angeles Angels,11,10,False
+823725,2026-04-13,MLB,2026,Minnesota Twins,Boston Red Sox,13,6,False
+823964,2026-04-13,MLB,2026,Los Angeles Dodgers,New York Mets,4,0,False
+824856,2026-04-13,MLB,2026,Baltimore Orioles,Arizona Diamondbacks,9,7,False
+824937,2026-04-13,MLB,2026,Atlanta Braves,Miami Marlins,4,10,False
+825024,2026-04-13,MLB,2026,Athletics,Texas Rangers,1,8,False
+823072,2026-04-14,MLB,2026,St. Louis Cardinals,Cleveland Guardians,6,5,False
+823315,2026-04-14,MLB,2026,San Diego Padres,Seattle Mariners,4,1,False
+823398,2026-04-14,MLB,2026,Pittsburgh Pirates,Washington Nationals,4,5,False
+823478,2026-04-14,MLB,2026,Philadelphia Phillies,Chicago Cubs,4,10,False
+823562,2026-04-14,MLB,2026,New York Yankees,Los Angeles Angels,1,7,False
+823723,2026-04-14,MLB,2026,Minnesota Twins,Boston Red Sox,6,0,False
+823802,2026-04-14,MLB,2026,Milwaukee Brewers,Toronto Blue Jays,7,9,False
+823965,2026-04-14,MLB,2026,Los Angeles Dodgers,New York Mets,2,1,False
+824210,2026-04-14,MLB,2026,Houston Astros,Colorado Rockies,7,6,False
+824292,2026-04-14,MLB,2026,Detroit Tigers,Kansas City Royals,2,1,False
+824531,2026-04-14,MLB,2026,Cincinnati Reds,San Francisco Giants,2,1,False
+824616,2026-04-14,MLB,2026,Chicago White Sox,Tampa Bay Rays,5,8,False
+824853,2026-04-14,MLB,2026,Baltimore Orioles,Arizona Diamondbacks,3,4,False
+824935,2026-04-14,MLB,2026,Atlanta Braves,Miami Marlins,6,5,False
+825022,2026-04-14,MLB,2026,Athletics,Texas Rangers,2,1,False
+823071,2026-04-15,MLB,2026,St. Louis Cardinals,Cleveland Guardians,5,3,False
+823314,2026-04-15,MLB,2026,San Diego Padres,Seattle Mariners,7,6,False
+823399,2026-04-15,MLB,2026,Pittsburgh Pirates,Washington Nationals,2,0,False
+823477,2026-04-15,MLB,2026,Philadelphia Phillies,Chicago Cubs,2,11,False
+823561,2026-04-15,MLB,2026,New York Yankees,Los Angeles Angels,5,4,False
+823722,2026-04-15,MLB,2026,Minnesota Twins,Boston Red Sox,5,9,False
+823803,2026-04-15,MLB,2026,Milwaukee Brewers,Toronto Blue Jays,2,1,False
+823963,2026-04-15,MLB,2026,Los Angeles Dodgers,New York Mets,8,2,False
+824209,2026-04-15,MLB,2026,Houston Astros,Colorado Rockies,3,1,False
+824291,2026-04-15,MLB,2026,Detroit Tigers,Kansas City Royals,2,1,False
+824532,2026-04-15,MLB,2026,Cincinnati Reds,San Francisco Giants,8,3,False
+824615,2026-04-15,MLB,2026,Chicago White Sox,Tampa Bay Rays,3,8,False
+824855,2026-04-15,MLB,2026,Baltimore Orioles,Arizona Diamondbacks,5,8,False
+824936,2026-04-15,MLB,2026,Atlanta Braves,Miami Marlins,6,3,False
+825021,2026-04-15,MLB,2026,Athletics,Texas Rangers,6,5,False
+823313,2026-04-16,MLB,2026,San Diego Padres,Seattle Mariners,5,2,False
+823396,2026-04-16,MLB,2026,Pittsburgh Pirates,Washington Nationals,7,8,False
+823560,2026-04-16,MLB,2026,New York Yankees,Los Angeles Angels,4,11,False
+823801,2026-04-16,MLB,2026,Milwaukee Brewers,Toronto Blue Jays,2,1,False
+824208,2026-04-16,MLB,2026,Houston Astros,Colorado Rockies,2,3,False
+824289,2026-04-16,MLB,2026,Detroit Tigers,Kansas City Royals,10,9,False
+824453,2026-04-16,MLB,2026,Cleveland Guardians,Baltimore Orioles,4,2,False
+824530,2026-04-16,MLB,2026,Cincinnati Reds,San Francisco Giants,0,3,False
+824614,2026-04-16,MLB,2026,Chicago White Sox,Tampa Bay Rays,3,5,False
+825023,2026-04-16,MLB,2026,Athletics,Texas Rangers,6,9,False
+822752,2026-04-17,MLB,2026,Washington Nationals,San Francisco Giants,5,10,False
+823152,2026-04-17,MLB,2026,Seattle Mariners,Texas Rangers,0,5,False
+823397,2026-04-17,MLB,2026,Pittsburgh Pirates,Tampa Bay Rays,5,1,False
+823476,2026-04-17,MLB,2026,Philadelphia Phillies,Atlanta Braves,0,9,False
+823559,2026-04-17,MLB,2026,New York Yankees,Kansas City Royals,4,2,False
+823720,2026-04-17,MLB,2026,Minnesota Twins,Cincinnati Reds,1,2,False
+823883,2026-04-17,MLB,2026,Miami Marlins,Milwaukee Brewers,5,7,False
+824048,2026-04-17,MLB,2026,Los Angeles Angels,San Diego Padres,8,0,False
+824207,2026-04-17,MLB,2026,Houston Astros,St. Louis Cardinals,4,9,False
+824373,2026-04-17,MLB,2026,Colorado Rockies,Los Angeles Dodgers,1,7,False
+824454,2026-04-17,MLB,2026,Cleveland Guardians,Baltimore Orioles,4,6,False
+824693,2026-04-17,MLB,2026,Chicago Cubs,New York Mets,12,4,False
+824778,2026-04-17,MLB,2026,Boston Red Sox,Detroit Tigers,1,0,False
+825019,2026-04-17,MLB,2026,Athletics,Chicago White Sox,2,9,False
+825101,2026-04-17,MLB,2026,Arizona Diamondbacks,Toronto Blue Jays,6,3,False
+822751,2026-04-18,MLB,2026,Washington Nationals,San Francisco Giants,6,7,False
+823151,2026-04-18,MLB,2026,Seattle Mariners,Texas Rangers,7,3,False
+823394,2026-04-18,MLB,2026,Pittsburgh Pirates,Tampa Bay Rays,7,8,False
+823474,2026-04-18,MLB,2026,Philadelphia Phillies,Atlanta Braves,1,3,False
+823558,2026-04-18,MLB,2026,New York Yankees,Kansas City Royals,13,4,False
+823721,2026-04-18,MLB,2026,Minnesota Twins,Cincinnati Reds,4,5,False
+823882,2026-04-18,MLB,2026,Miami Marlins,Milwaukee Brewers,2,5,False
+824049,2026-04-18,MLB,2026,Los Angeles Angels,San Diego Padres,1,4,False
+824206,2026-04-18,MLB,2026,Houston Astros,St. Louis Cardinals,5,7,False
+824372,2026-04-18,MLB,2026,Colorado Rockies,Los Angeles Dodgers,4,3,False
+824451,2026-04-18,MLB,2026,Cleveland Guardians,Baltimore Orioles,4,2,False
+824694,2026-04-18,MLB,2026,Chicago Cubs,New York Mets,4,2,False
+824775,2026-04-18,MLB,2026,Boston Red Sox,Detroit Tigers,1,4,False
+825020,2026-04-18,MLB,2026,Athletics,Chicago White Sox,7,6,False
+825098,2026-04-18,MLB,2026,Arizona Diamondbacks,Toronto Blue Jays,6,2,False
+822750,2026-04-19,MLB,2026,Washington Nationals,San Francisco Giants,3,0,False
+823150,2026-04-19,MLB,2026,Seattle Mariners,Texas Rangers,5,2,False
+823393,2026-04-19,MLB,2026,Pittsburgh Pirates,Tampa Bay Rays,6,3,False
+823475,2026-04-19,MLB,2026,Philadelphia Phillies,Atlanta Braves,2,4,False
+823556,2026-04-19,MLB,2026,New York Yankees,Kansas City Royals,7,0,False
+823718,2026-04-19,MLB,2026,Minnesota Twins,Cincinnati Reds,4,7,False
+823881,2026-04-19,MLB,2026,Miami Marlins,Milwaukee Brewers,5,3,False
+824047,2026-04-19,MLB,2026,Los Angeles Angels,San Diego Padres,1,2,False
+824205,2026-04-19,MLB,2026,Houston Astros,St. Louis Cardinals,5,7,False
+824371,2026-04-19,MLB,2026,Colorado Rockies,Los Angeles Dodgers,9,6,False
+824452,2026-04-19,MLB,2026,Cleveland Guardians,Baltimore Orioles,8,4,False
+824691,2026-04-19,MLB,2026,Chicago Cubs,New York Mets,2,1,False
+824777,2026-04-19,MLB,2026,Boston Red Sox,Detroit Tigers,2,6,False
+825018,2026-04-19,MLB,2026,Athletics,Chicago White Sox,4,7,False
+825100,2026-04-19,MLB,2026,Arizona Diamondbacks,Toronto Blue Jays,4,10,False
+822749,2026-04-20,MLB,2026,Washington Nationals,Atlanta Braves,4,9,False
+822994,2026-04-20,MLB,2026,Tampa Bay Rays,Cincinnati Reds,1,6,False
+823149,2026-04-20,MLB,2026,Seattle Mariners,Athletics,4,6,False
+823879,2026-04-20,MLB,2026,Miami Marlins,St. Louis Cardinals,5,3,False
+824046,2026-04-20,MLB,2026,Los Angeles Angels,Toronto Blue Jays,2,5,False
+824125,2026-04-20,MLB,2026,Kansas City Royals,Baltimore Orioles,5,7,False
+824370,2026-04-20,MLB,2026,Colorado Rockies,Los Angeles Dodgers,3,12,False
+824450,2026-04-20,MLB,2026,Cleveland Guardians,Houston Astros,2,9,False
+824692,2026-04-20,MLB,2026,Chicago Cubs,Philadelphia Phillies,5,1,False
+824776,2026-04-20,MLB,2026,Boston Red Sox,Detroit Tigers,8,6,False
+822747,2026-04-21,MLB,2026,Washington Nationals,Atlanta Braves,11,4,False
+822914,2026-04-21,MLB,2026,Texas Rangers,Pittsburgh Pirates,5,1,False
+822995,2026-04-21,MLB,2026,Tampa Bay Rays,Cincinnati Reds,6,12,False
+823148,2026-04-21,MLB,2026,Seattle Mariners,Athletics,2,5,False
+823236,2026-04-21,MLB,2026,San Francisco Giants,Los Angeles Dodgers,3,1,False
+823640,2026-04-21,MLB,2026,New York Mets,Minnesota Twins,3,5,False
+823880,2026-04-21,MLB,2026,Miami Marlins,St. Louis Cardinals,3,5,False
+824045,2026-04-21,MLB,2026,Los Angeles Angels,Toronto Blue Jays,2,4,False
+824127,2026-04-21,MLB,2026,Kansas City Royals,Baltimore Orioles,6,5,False
+824290,2026-04-21,MLB,2026,Detroit Tigers,Milwaukee Brewers,4,12,False
+824369,2026-04-21,MLB,2026,Colorado Rockies,San Diego Padres,0,1,False
+824448,2026-04-21,MLB,2026,Cleveland Guardians,Houston Astros,8,5,False
+824690,2026-04-21,MLB,2026,Chicago Cubs,Philadelphia Phillies,7,4,False
+824773,2026-04-21,MLB,2026,Boston Red Sox,New York Yankees,0,4,False
+825099,2026-04-21,MLB,2026,Arizona Diamondbacks,Chicago White Sox,5,11,False
+822748,2026-04-22,MLB,2026,Washington Nationals,Atlanta Braves,6,8,False
+822913,2026-04-22,MLB,2026,Texas Rangers,Pittsburgh Pirates,4,8,False
+822993,2026-04-22,MLB,2026,Tampa Bay Rays,Cincinnati Reds,6,1,False
+823147,2026-04-22,MLB,2026,Seattle Mariners,Athletics,5,4,False
+823231,2026-04-22,MLB,2026,San Francisco Giants,Los Angeles Dodgers,3,0,False
+823641,2026-04-22,MLB,2026,New York Mets,Minnesota Twins,3,2,False
+823878,2026-04-22,MLB,2026,Miami Marlins,St. Louis Cardinals,4,1,False
+824044,2026-04-22,MLB,2026,Los Angeles Angels,Toronto Blue Jays,7,3,False
+824123,2026-04-22,MLB,2026,Kansas City Royals,Baltimore Orioles,6,8,False
+824286,2026-04-22,MLB,2026,Detroit Tigers,Milwaukee Brewers,5,2,False
+824367,2026-04-22,MLB,2026,Colorado Rockies,San Diego Padres,8,3,False
+824449,2026-04-22,MLB,2026,Cleveland Guardians,Houston Astros,0,2,False
+824688,2026-04-22,MLB,2026,Chicago Cubs,Philadelphia Phillies,7,2,False
+824774,2026-04-22,MLB,2026,Boston Red Sox,New York Yankees,1,4,False
+825097,2026-04-22,MLB,2026,Arizona Diamondbacks,Chicago White Sox,11,7,False
+822745,2026-04-23,MLB,2026,Washington Nationals,Atlanta Braves,2,7,False
+822912,2026-04-23,MLB,2026,Texas Rangers,Pittsburgh Pirates,6,1,False
+823233,2026-04-23,MLB,2026,San Francisco Giants,Los Angeles Dodgers,0,3,False
+823639,2026-04-23,MLB,2026,New York Mets,Minnesota Twins,10,8,False
+824288,2026-04-23,MLB,2026,Detroit Tigers,Milwaukee Brewers,5,4,False
+824368,2026-04-23,MLB,2026,Colorado Rockies,San Diego Padres,8,10,False
+824689,2026-04-23,MLB,2026,Chicago Cubs,Philadelphia Phillies,8,7,False
+824770,2026-04-23,MLB,2026,Boston Red Sox,New York Yankees,2,4,False
+825096,2026-04-23,MLB,2026,Arizona Diamondbacks,Chicago White Sox,1,4,False
+822827,2026-04-24,MLB,2026,Toronto Blue Jays,Cleveland Guardians,6,8,False
+822909,2026-04-24,MLB,2026,Texas Rangers,Athletics,1,8,False
+822992,2026-04-24,MLB,2026,Tampa Bay Rays,Minnesota Twins,6,2,False
+823069,2026-04-24,MLB,2026,St. Louis Cardinals,Seattle Mariners,2,3,False
+823232,2026-04-24,MLB,2026,San Francisco Giants,Miami Marlins,4,9,False
+823638,2026-04-24,MLB,2026,New York Mets,Colorado Rockies,3,4,False
+823800,2026-04-24,MLB,2026,Milwaukee Brewers,Pittsburgh Pirates,0,6,False
+823962,2026-04-24,MLB,2026,Los Angeles Dodgers,Chicago Cubs,4,6,False
+824124,2026-04-24,MLB,2026,Kansas City Royals,Los Angeles Angels,6,3,False
+824204,2026-04-24,MLB,2026,Houston Astros,New York Yankees,4,12,False
+824529,2026-04-24,MLB,2026,Cincinnati Reds,Detroit Tigers,9,8,False
+824611,2026-04-24,MLB,2026,Chicago White Sox,Washington Nationals,5,4,False
+824854,2026-04-24,MLB,2026,Baltimore Orioles,Boston Red Sox,10,3,False
+824932,2026-04-24,MLB,2026,Atlanta Braves,Philadelphia Phillies,5,3,False
+822826,2026-04-25,MLB,2026,Toronto Blue Jays,Cleveland Guardians,5,3,False
+822910,2026-04-25,MLB,2026,Texas Rangers,Athletics,4,3,False
+822989,2026-04-25,MLB,2026,Tampa Bay Rays,Minnesota Twins,6,1,False
+823070,2026-04-25,MLB,2026,St. Louis Cardinals,Seattle Mariners,9,11,False
+823229,2026-04-25,MLB,2026,San Francisco Giants,Miami Marlins,6,2,False
+823799,2026-04-25,MLB,2026,Milwaukee Brewers,Pittsburgh Pirates,3,6,False
+823960,2026-04-25,MLB,2026,Los Angeles Dodgers,Chicago Cubs,12,4,False
+824121,2026-04-25,MLB,2026,Kansas City Royals,Los Angeles Angels,12,1,False
+824203,2026-04-25,MLB,2026,Houston Astros,New York Yankees,3,8,False
+824527,2026-04-25,MLB,2026,Cincinnati Reds,Detroit Tigers,9,2,False
+824613,2026-04-25,MLB,2026,Chicago White Sox,Washington Nationals,3,6,False
+824851,2026-04-25,MLB,2026,Baltimore Orioles,Boston Red Sox,1,17,False
+824933,2026-04-25,MLB,2026,Atlanta Braves,Philadelphia Phillies,5,8,False
+825093,2026-04-25,MLB,2026,Arizona Diamondbacks,San Diego Padres,4,6,False
+822824,2026-04-26,MLB,2026,Toronto Blue Jays,Cleveland Guardians,4,2,False
+822911,2026-04-26,MLB,2026,Texas Rangers,Athletics,1,2,False
+822991,2026-04-26,MLB,2026,Tampa Bay Rays,Minnesota Twins,4,2,False
+823068,2026-04-26,MLB,2026,St. Louis Cardinals,Seattle Mariners,2,3,False
+823230,2026-04-26,MLB,2026,San Francisco Giants,Miami Marlins,6,3,False
+823635,2026-04-26,MLB,2026,New York Mets,Colorado Rockies,1,3,False
+823637,2026-04-26,MLB,2026,New York Mets,Colorado Rockies,0,3,False
+823797,2026-04-26,MLB,2026,Milwaukee Brewers,Pittsburgh Pirates,5,0,False
+823959,2026-04-26,MLB,2026,Los Angeles Dodgers,Chicago Cubs,6,0,False
+824122,2026-04-26,MLB,2026,Kansas City Royals,Los Angeles Angels,11,9,False
+824202,2026-04-26,MLB,2026,Houston Astros,New York Yankees,7,4,False
+824528,2026-04-26,MLB,2026,Cincinnati Reds,Detroit Tigers,3,8,False
+824612,2026-04-26,MLB,2026,Chicago White Sox,Washington Nationals,1,2,False
+824852,2026-04-26,MLB,2026,Baltimore Orioles,Boston Red Sox,3,5,False
+824934,2026-04-26,MLB,2026,Atlanta Braves,Philadelphia Phillies,6,2,False
+825094,2026-04-26,MLB,2026,Arizona Diamondbacks,San Diego Padres,12,7,False
+822825,2026-04-27,MLB,2026,Toronto Blue Jays,Boston Red Sox,0,5,False
+822906,2026-04-27,MLB,2026,Texas Rangers,New York Yankees,2,4,False
+823311,2026-04-27,MLB,2026,San Diego Padres,Chicago Cubs,9,7,False
+823395,2026-04-27,MLB,2026,Pittsburgh Pirates,St. Louis Cardinals,2,4,False
+823719,2026-04-27,MLB,2026,Minnesota Twins,Seattle Mariners,11,4,False
+823961,2026-04-27,MLB,2026,Los Angeles Dodgers,Miami Marlins,5,4,False
+824446,2026-04-27,MLB,2026,Cleveland Guardians,Tampa Bay Rays,2,3,False
+824609,2026-04-27,MLB,2026,Chicago White Sox,Los Angeles Angels,8,7,False
+822823,2026-04-28,MLB,2026,Toronto Blue Jays,Boston Red Sox,3,0,False
+822908,2026-04-28,MLB,2026,Texas Rangers,New York Yankees,2,3,False
+823310,2026-04-28,MLB,2026,San Diego Padres,Chicago Cubs,3,8,False
+823390,2026-04-28,MLB,2026,Pittsburgh Pirates,St. Louis Cardinals,7,11,False
+823473,2026-04-28,MLB,2026,Philadelphia Phillies,San Francisco Giants,7,0,False
+823636,2026-04-28,MLB,2026,New York Mets,Washington Nationals,8,0,False
+823716,2026-04-28,MLB,2026,Minnesota Twins,Seattle Mariners,1,7,False
+823798,2026-04-28,MLB,2026,Milwaukee Brewers,Arizona Diamondbacks,13,2,False
+823956,2026-04-28,MLB,2026,Los Angeles Dodgers,Miami Marlins,1,2,False
+824447,2026-04-28,MLB,2026,Cleveland Guardians,Tampa Bay Rays,0,1,False
+824526,2026-04-28,MLB,2026,Cincinnati Reds,Colorado Rockies,7,2,False
+824610,2026-04-28,MLB,2026,Chicago White Sox,Los Angeles Angels,5,2,False
+824849,2026-04-28,MLB,2026,Baltimore Orioles,Houston Astros,5,3,False
+824931,2026-04-28,MLB,2026,Atlanta Braves,Detroit Tigers,5,2,False
+825017,2026-04-28,MLB,2026,Athletics,Kansas City Royals,1,4,False
+822821,2026-04-29,MLB,2026,Toronto Blue Jays,Boston Red Sox,8,1,False
+822907,2026-04-29,MLB,2026,Texas Rangers,New York Yankees,3,0,False
+823312,2026-04-29,MLB,2026,San Diego Padres,Chicago Cubs,4,5,False
+823392,2026-04-29,MLB,2026,Pittsburgh Pirates,St. Louis Cardinals,4,5,False
+823633,2026-04-29,MLB,2026,New York Mets,Washington Nationals,2,14,False
+823717,2026-04-29,MLB,2026,Minnesota Twins,Seattle Mariners,3,5,False
+823796,2026-04-29,MLB,2026,Milwaukee Brewers,Arizona Diamondbacks,2,6,False
+823958,2026-04-29,MLB,2026,Los Angeles Dodgers,Miami Marlins,2,3,False
+824445,2026-04-29,MLB,2026,Cleveland Guardians,Tampa Bay Rays,3,1,False
+824525,2026-04-29,MLB,2026,Cincinnati Reds,Colorado Rockies,2,13,False
+824608,2026-04-29,MLB,2026,Chicago White Sox,Los Angeles Angels,3,2,False
+824930,2026-04-29,MLB,2026,Atlanta Braves,Detroit Tigers,4,3,False
+825015,2026-04-29,MLB,2026,Athletics,Kansas City Royals,5,2,False
+823391,2026-04-30,MLB,2026,Pittsburgh Pirates,St. Louis Cardinals,5,10,False
+823471,2026-04-30,MLB,2026,Philadelphia Phillies,San Francisco Giants,6,5,False
+823472,2026-04-30,MLB,2026,Philadelphia Phillies,San Francisco Giants,3,2,False
+823634,2026-04-30,MLB,2026,New York Mets,Washington Nationals,4,5,False
+823714,2026-04-30,MLB,2026,Minnesota Twins,Toronto Blue Jays,7,1,False
+823795,2026-04-30,MLB,2026,Milwaukee Brewers,Arizona Diamondbacks,13,1,False
+824524,2026-04-30,MLB,2026,Cincinnati Reds,Colorado Rockies,6,4,False
+824848,2026-04-30,MLB,2026,Baltimore Orioles,Houston Astros,10,3,False
+824850,2026-04-30,MLB,2026,Baltimore Orioles,Houston Astros,5,11,False
+824929,2026-04-30,MLB,2026,Atlanta Braves,Detroit Tigers,2,5,False
+825016,2026-04-30,MLB,2026,Athletics,Kansas City Royals,6,3,False
+822744,2026-05-01,MLB,2026,Washington Nationals,Milwaukee Brewers,1,6,False
+822990,2026-05-01,MLB,2026,Tampa Bay Rays,San Francisco Giants,3,0,False
+823066,2026-05-01,MLB,2026,St. Louis Cardinals,Los Angeles Dodgers,7,2,False
+823146,2026-05-01,MLB,2026,Seattle Mariners,Kansas City Royals,6,7,False
+823309,2026-05-01,MLB,2026,San Diego Padres,Chicago White Sox,2,8,False
+823389,2026-05-01,MLB,2026,Pittsburgh Pirates,Cincinnati Reds,9,1,False
+823557,2026-05-01,MLB,2026,New York Yankees,Baltimore Orioles,7,2,False
+823713,2026-05-01,MLB,2026,Minnesota Twins,Toronto Blue Jays,3,7,False
+823877,2026-05-01,MLB,2026,Miami Marlins,Philadelphia Phillies,5,6,False
+824041,2026-05-01,MLB,2026,Los Angeles Angels,New York Mets,3,4,False
+824287,2026-05-01,MLB,2026,Detroit Tigers,Texas Rangers,4,5,False
+824366,2026-05-01,MLB,2026,Colorado Rockies,Atlanta Braves,6,8,False
+824686,2026-05-01,MLB,2026,Chicago Cubs,Arizona Diamondbacks,6,5,False
+824772,2026-05-01,MLB,2026,Boston Red Sox,Houston Astros,3,1,False
+825012,2026-05-01,MLB,2026,Athletics,Cleveland Guardians,5,8,False
+822746,2026-05-02,MLB,2026,Washington Nationals,Milwaukee Brewers,1,4,False
+822988,2026-05-02,MLB,2026,Tampa Bay Rays,San Francisco Giants,5,1,False
+823067,2026-05-02,MLB,2026,St. Louis Cardinals,Los Angeles Dodgers,3,2,False
+823144,2026-05-02,MLB,2026,Seattle Mariners,Kansas City Royals,2,3,False
+823308,2026-05-02,MLB,2026,San Diego Padres,Chicago White Sox,0,4,False
+823388,2026-05-02,MLB,2026,Pittsburgh Pirates,Cincinnati Reds,17,7,False
+823554,2026-05-02,MLB,2026,New York Yankees,Baltimore Orioles,9,4,False
+823715,2026-05-02,MLB,2026,Minnesota Twins,Toronto Blue Jays,4,11,False
+823876,2026-05-02,MLB,2026,Miami Marlins,Philadelphia Phillies,4,0,False
+824042,2026-05-02,MLB,2026,Los Angeles Angels,New York Mets,4,3,False
+824284,2026-05-02,MLB,2026,Detroit Tigers,Texas Rangers,5,1,False
+824365,2026-05-02,MLB,2026,Colorado Rockies,Atlanta Braves,1,9,False
+824685,2026-05-02,MLB,2026,Chicago Cubs,Arizona Diamondbacks,2,0,False
+824771,2026-05-02,MLB,2026,Boston Red Sox,Houston Astros,3,6,False
+825014,2026-05-02,MLB,2026,Athletics,Cleveland Guardians,6,14,False
+822742,2026-05-03,MLB,2026,Washington Nationals,Milwaukee Brewers,3,2,False
+822987,2026-05-03,MLB,2026,Tampa Bay Rays,San Francisco Giants,2,1,False
+823065,2026-05-03,MLB,2026,St. Louis Cardinals,Los Angeles Dodgers,1,4,False
+823145,2026-05-03,MLB,2026,Seattle Mariners,Kansas City Royals,1,4,False
+823307,2026-05-03,MLB,2026,San Diego Padres,Chicago White Sox,4,3,False
+823387,2026-05-03,MLB,2026,Pittsburgh Pirates,Cincinnati Reds,1,0,False
+823555,2026-05-03,MLB,2026,New York Yankees,Baltimore Orioles,11,3,False
+823711,2026-05-03,MLB,2026,Minnesota Twins,Toronto Blue Jays,4,3,False
+823875,2026-05-03,MLB,2026,Miami Marlins,Philadelphia Phillies,2,7,False
+824043,2026-05-03,MLB,2026,Los Angeles Angels,New York Mets,1,5,False
+824285,2026-05-03,MLB,2026,Detroit Tigers,Texas Rangers,7,1,False
+824364,2026-05-03,MLB,2026,Colorado Rockies,Atlanta Braves,6,11,False
+824687,2026-05-03,MLB,2026,Chicago Cubs,Arizona Diamondbacks,8,4,False
+824769,2026-05-03,MLB,2026,Boston Red Sox,Houston Astros,1,3,False
+825013,2026-05-03,MLB,2026,Athletics,Cleveland Guardians,7,1,False
+822984,2026-05-04,MLB,2026,Tampa Bay Rays,Toronto Blue Jays,5,1,False
+823064,2026-05-04,MLB,2026,St. Louis Cardinals,Milwaukee Brewers,6,3,False
+823143,2026-05-04,MLB,2026,Seattle Mariners,Atlanta Braves,5,4,False
+823228,2026-05-04,MLB,2026,San Francisco Giants,San Diego Padres,3,2,False
+823552,2026-05-04,MLB,2026,New York Yankees,Baltimore Orioles,12,1,False
+823874,2026-05-04,MLB,2026,Miami Marlins,Philadelphia Phillies,0,1,False
+824039,2026-05-04,MLB,2026,Los Angeles Angels,Chicago White Sox,0,6,False
+824120,2026-05-04,MLB,2026,Kansas City Royals,Cleveland Guardians,6,2,False
+824201,2026-05-04,MLB,2026,Houston Astros,Los Angeles Dodgers,3,8,False
+824283,2026-05-04,MLB,2026,Detroit Tigers,Boston Red Sox,4,5,False
+824363,2026-05-04,MLB,2026,Colorado Rockies,New York Mets,2,4,False
+824684,2026-05-04,MLB,2026,Chicago Cubs,Cincinnati Reds,5,4,False
+822743,2026-05-05,MLB,2026,Washington Nationals,Minnesota Twins,3,11,False
+822986,2026-05-05,MLB,2026,Tampa Bay Rays,Toronto Blue Jays,4,3,False
+823142,2026-05-05,MLB,2026,Seattle Mariners,Atlanta Braves,2,3,False
+823227,2026-05-05,MLB,2026,San Francisco Giants,San Diego Padres,5,10,False
+823469,2026-05-05,MLB,2026,Philadelphia Phillies,Athletics,9,1,False
+823553,2026-05-05,MLB,2026,New York Yankees,Texas Rangers,7,4,False
+823873,2026-05-05,MLB,2026,Miami Marlins,Baltimore Orioles,7,9,False
+824040,2026-05-05,MLB,2026,Los Angeles Angels,Chicago White Sox,4,3,False
+824119,2026-05-05,MLB,2026,Kansas City Royals,Cleveland Guardians,5,3,False
+824200,2026-05-05,MLB,2026,Houston Astros,Los Angeles Dodgers,2,1,False
+824281,2026-05-05,MLB,2026,Detroit Tigers,Boston Red Sox,3,10,False
+824682,2026-05-05,MLB,2026,Chicago Cubs,Cincinnati Reds,3,2,False
+825092,2026-05-05,MLB,2026,Arizona Diamondbacks,Pittsburgh Pirates,9,0,False
+822740,2026-05-06,MLB,2026,Washington Nationals,Minnesota Twins,15,2,False
+822985,2026-05-06,MLB,2026,Tampa Bay Rays,Toronto Blue Jays,3,0,False
+823063,2026-05-06,MLB,2026,St. Louis Cardinals,Milwaukee Brewers,2,6,False
+823141,2026-05-06,MLB,2026,Seattle Mariners,Atlanta Braves,3,1,False
+823226,2026-05-06,MLB,2026,San Francisco Giants,San Diego Padres,1,5,False
+823470,2026-05-06,MLB,2026,Philadelphia Phillies,Athletics,6,3,False
+823550,2026-05-06,MLB,2026,New York Yankees,Texas Rangers,1,6,False
+823872,2026-05-06,MLB,2026,Miami Marlins,Baltimore Orioles,4,7,False
+824036,2026-05-06,MLB,2026,Los Angeles Angels,Chicago White Sox,8,2,False
+824118,2026-05-06,MLB,2026,Kansas City Royals,Cleveland Guardians,1,3,False
+824198,2026-05-06,MLB,2026,Houston Astros,Los Angeles Dodgers,2,12,False
+824282,2026-05-06,MLB,2026,Detroit Tigers,Boston Red Sox,0,4,False
+824361,2026-05-06,MLB,2026,Colorado Rockies,New York Mets,5,10,False
+824683,2026-05-06,MLB,2026,Chicago Cubs,Cincinnati Reds,7,6,False
+825091,2026-05-06,MLB,2026,Arizona Diamondbacks,Pittsburgh Pirates,0,1,False
+822741,2026-05-07,MLB,2026,Washington Nationals,Minnesota Twins,7,5,False
+823306,2026-05-07,MLB,2026,San Diego Padres,St. Louis Cardinals,1,2,False
+823467,2026-05-07,MLB,2026,Philadelphia Phillies,Athletics,1,12,False
+823551,2026-05-07,MLB,2026,New York Yankees,Texas Rangers,9,2,False
+823870,2026-05-07,MLB,2026,Miami Marlins,Baltimore Orioles,4,3,False
+824117,2026-05-07,MLB,2026,Kansas City Royals,Cleveland Guardians,5,8,False
+824362,2026-05-07,MLB,2026,Colorado Rockies,New York Mets,6,2,False
+824681,2026-05-07,MLB,2026,Chicago Cubs,Cincinnati Reds,8,3,False
+824767,2026-05-07,MLB,2026,Boston Red Sox,Tampa Bay Rays,4,8,False
+825090,2026-05-07,MLB,2026,Arizona Diamondbacks,Pittsburgh Pirates,2,4,False
+822822,2026-05-08,MLB,2026,Toronto Blue Jays,Los Angeles Angels,2,0,False
+822904,2026-05-08,MLB,2026,Texas Rangers,Chicago Cubs,1,7,False
+823225,2026-05-08,MLB,2026,San Francisco Giants,Pittsburgh Pirates,5,2,False
+823303,2026-05-08,MLB,2026,San Diego Padres,St. Louis Cardinals,0,6,False
+823466,2026-05-08,MLB,2026,Philadelphia Phillies,Colorado Rockies,7,9,False
+823794,2026-05-08,MLB,2026,Milwaukee Brewers,New York Yankees,6,0,False
+823871,2026-05-08,MLB,2026,Miami Marlins,Washington Nationals,2,3,False
+823957,2026-05-08,MLB,2026,Los Angeles Dodgers,Atlanta Braves,3,1,False
+824116,2026-05-08,MLB,2026,Kansas City Royals,Detroit Tigers,4,3,False
+824443,2026-05-08,MLB,2026,Cleveland Guardians,Minnesota Twins,6,4,False
+824522,2026-05-08,MLB,2026,Cincinnati Reds,Houston Astros,0,10,False
+824607,2026-05-08,MLB,2026,Chicago White Sox,Seattle Mariners,8,12,False
+824768,2026-05-08,MLB,2026,Boston Red Sox,Tampa Bay Rays,2,0,False
+824846,2026-05-08,MLB,2026,Baltimore Orioles,Athletics,3,4,False
+825088,2026-05-08,MLB,2026,Arizona Diamondbacks,New York Mets,1,3,False
+822820,2026-05-09,MLB,2026,Toronto Blue Jays,Los Angeles Angels,14,1,False
+822905,2026-05-09,MLB,2026,Texas Rangers,Chicago Cubs,6,0,False
+823224,2026-05-09,MLB,2026,San Francisco Giants,Pittsburgh Pirates,3,13,False
+823304,2026-05-09,MLB,2026,San Diego Padres,St. Louis Cardinals,4,2,False
+823468,2026-05-09,MLB,2026,Philadelphia Phillies,Colorado Rockies,9,3,False
+823792,2026-05-09,MLB,2026,Milwaukee Brewers,New York Yankees,4,3,False
+823869,2026-05-09,MLB,2026,Miami Marlins,Washington Nationals,8,7,False
+823955,2026-05-09,MLB,2026,Los Angeles Dodgers,Atlanta Braves,2,7,False
+824115,2026-05-09,MLB,2026,Kansas City Royals,Detroit Tigers,5,1,False
+824444,2026-05-09,MLB,2026,Cleveland Guardians,Minnesota Twins,1,2,False
+824523,2026-05-09,MLB,2026,Cincinnati Reds,Houston Astros,3,1,False
+824606,2026-05-09,MLB,2026,Chicago White Sox,Seattle Mariners,6,1,False
+824847,2026-05-09,MLB,2026,Baltimore Orioles,Athletics,2,6,False
+825089,2026-05-09,MLB,2026,Arizona Diamondbacks,New York Mets,2,1,False
+822819,2026-05-10,MLB,2026,Toronto Blue Jays,Los Angeles Angels,1,6,False
+822902,2026-05-10,MLB,2026,Texas Rangers,Chicago Cubs,3,0,False
+823221,2026-05-10,MLB,2026,San Francisco Giants,Pittsburgh Pirates,7,6,False
+823305,2026-05-10,MLB,2026,San Diego Padres,St. Louis Cardinals,3,2,False
+823463,2026-05-10,MLB,2026,Philadelphia Phillies,Colorado Rockies,6,0,False
+823793,2026-05-10,MLB,2026,Milwaukee Brewers,New York Yankees,4,3,False
+823868,2026-05-10,MLB,2026,Miami Marlins,Washington Nationals,5,2,False
+823954,2026-05-10,MLB,2026,Los Angeles Dodgers,Atlanta Braves,2,7,False
+824113,2026-05-10,MLB,2026,Kansas City Royals,Detroit Tigers,3,6,False
+824440,2026-05-10,MLB,2026,Cleveland Guardians,Minnesota Twins,4,5,False
+824520,2026-05-10,MLB,2026,Cincinnati Reds,Houston Astros,5,0,False
+824605,2026-05-10,MLB,2026,Chicago White Sox,Seattle Mariners,2,1,False
+824765,2026-05-10,MLB,2026,Boston Red Sox,Tampa Bay Rays,1,4,False
+824845,2026-05-10,MLB,2026,Baltimore Orioles,Athletics,2,1,False
+825085,2026-05-10,MLB,2026,Arizona Diamondbacks,New York Mets,5,1,False
+822818,2026-05-11,MLB,2026,Toronto Blue Jays,Tampa Bay Rays,5,8,False
+822901,2026-05-11,MLB,2026,Texas Rangers,Arizona Diamondbacks,0,1,False
+823953,2026-05-11,MLB,2026,Los Angeles Dodgers,San Francisco Giants,3,9,False
+824199,2026-05-11,MLB,2026,Houston Astros,Seattle Mariners,1,3,False
+824441,2026-05-11,MLB,2026,Cleveland Guardians,Los Angeles Angels,7,2,False
+824844,2026-05-11,MLB,2026,Baltimore Orioles,New York Yankees,3,2,False
+822817,2026-05-12,MLB,2026,Toronto Blue Jays,Tampa Bay Rays,6,7,False
+822903,2026-05-12,MLB,2026,Texas Rangers,Arizona Diamondbacks,7,4,False
+823385,2026-05-12,MLB,2026,Pittsburgh Pirates,Colorado Rockies,3,1,False
+823632,2026-05-12,MLB,2026,New York Mets,Detroit Tigers,10,2,False
+823712,2026-05-12,MLB,2026,Minnesota Twins,Miami Marlins,3,0,False
+823790,2026-05-12,MLB,2026,Milwaukee Brewers,San Diego Padres,6,4,False
+823951,2026-05-12,MLB,2026,Los Angeles Dodgers,San Francisco Giants,2,6,False
+824197,2026-05-12,MLB,2026,Houston Astros,Seattle Mariners,2,10,False
+824442,2026-05-12,MLB,2026,Cleveland Guardians,Los Angeles Angels,3,2,False
+824521,2026-05-12,MLB,2026,Cincinnati Reds,Washington Nationals,4,10,False
+824604,2026-05-12,MLB,2026,Chicago White Sox,Kansas City Royals,6,5,False
+824764,2026-05-12,MLB,2026,Boston Red Sox,Philadelphia Phillies,1,2,False
+824843,2026-05-12,MLB,2026,Baltimore Orioles,New York Yankees,2,6,False
+824927,2026-05-12,MLB,2026,Atlanta Braves,Chicago Cubs,5,2,False
+825011,2026-05-12,MLB,2026,Athletics,St. Louis Cardinals,4,6,False
+822815,2026-05-13,MLB,2026,Toronto Blue Jays,Tampa Bay Rays,5,3,False
+822900,2026-05-13,MLB,2026,Texas Rangers,Arizona Diamondbacks,6,5,False
+823386,2026-05-13,MLB,2026,Pittsburgh Pirates,Colorado Rockies,4,10,False
+823631,2026-05-13,MLB,2026,New York Mets,Detroit Tigers,3,2,False
+823710,2026-05-13,MLB,2026,Minnesota Twins,Miami Marlins,5,9,False
+823791,2026-05-13,MLB,2026,Milwaukee Brewers,San Diego Padres,1,3,False
+823952,2026-05-13,MLB,2026,Los Angeles Dodgers,San Francisco Giants,4,0,False
+824195,2026-05-13,MLB,2026,Houston Astros,Seattle Mariners,4,3,False
+824438,2026-05-13,MLB,2026,Cleveland Guardians,Los Angeles Angels,4,2,False
+824519,2026-05-13,MLB,2026,Cincinnati Reds,Washington Nationals,7,8,False
+824603,2026-05-13,MLB,2026,Chicago White Sox,Kansas City Royals,6,5,False
+824763,2026-05-13,MLB,2026,Boston Red Sox,Philadelphia Phillies,3,1,False
+824841,2026-05-13,MLB,2026,Baltimore Orioles,New York Yankees,7,0,False
+824928,2026-05-13,MLB,2026,Atlanta Braves,Chicago Cubs,4,1,False
+825010,2026-05-13,MLB,2026,Athletics,St. Louis Cardinals,6,2,False
+823383,2026-05-14,MLB,2026,Pittsburgh Pirates,Colorado Rockies,7,2,False
+823630,2026-05-14,MLB,2026,New York Mets,Detroit Tigers,9,4,False
+823709,2026-05-14,MLB,2026,Minnesota Twins,Miami Marlins,9,1,False
+823789,2026-05-14,MLB,2026,Milwaukee Brewers,San Diego Padres,7,1,False
+823950,2026-05-14,MLB,2026,Los Angeles Dodgers,San Francisco Giants,5,2,False
+824196,2026-05-14,MLB,2026,Houston Astros,Seattle Mariners,3,8,False
+824517,2026-05-14,MLB,2026,Cincinnati Reds,Washington Nationals,15,1,False
+824602,2026-05-14,MLB,2026,Chicago White Sox,Kansas City Royals,6,2,False
+824762,2026-05-14,MLB,2026,Boston Red Sox,Philadelphia Phillies,1,3,False
+824926,2026-05-14,MLB,2026,Atlanta Braves,Chicago Cubs,0,2,False
+825008,2026-05-14,MLB,2026,Athletics,St. Louis Cardinals,4,5,False
+822739,2026-05-15,MLB,2026,Washington Nationals,Baltimore Orioles,3,2,False
+822983,2026-05-15,MLB,2026,Tampa Bay Rays,Miami Marlins,7,2,False
+823061,2026-05-15,MLB,2026,St. Louis Cardinals,Kansas City Royals,5,4,False
+823140,2026-05-15,MLB,2026,Seattle Mariners,San Diego Padres,0,2,False
+823384,2026-05-15,MLB,2026,Pittsburgh Pirates,Philadelphia Phillies,9,11,False
+823629,2026-05-15,MLB,2026,New York Mets,New York Yankees,2,5,False
+823707,2026-05-15,MLB,2026,Minnesota Twins,Milwaukee Brewers,2,3,False
+824037,2026-05-15,MLB,2026,Los Angeles Angels,Los Angeles Dodgers,0,6,False
+824194,2026-05-15,MLB,2026,Houston Astros,Texas Rangers,2,0,False
+824280,2026-05-15,MLB,2026,Detroit Tigers,Toronto Blue Jays,3,2,False
+824360,2026-05-15,MLB,2026,Colorado Rockies,Arizona Diamondbacks,1,9,False
+824439,2026-05-15,MLB,2026,Cleveland Guardians,Cincinnati Reds,6,7,False
+824601,2026-05-15,MLB,2026,Chicago White Sox,Chicago Cubs,5,10,False
+824925,2026-05-15,MLB,2026,Atlanta Braves,Boston Red Sox,3,2,False
+825009,2026-05-15,MLB,2026,Athletics,San Francisco Giants,5,2,False
+822737,2026-05-16,MLB,2026,Washington Nationals,Baltimore Orioles,13,3,False
+822981,2026-05-16,MLB,2026,Tampa Bay Rays,Miami Marlins,5,10,False
+823060,2026-05-16,MLB,2026,St. Louis Cardinals,Kansas City Royals,4,2,False
+823139,2026-05-16,MLB,2026,Seattle Mariners,San Diego Padres,4,7,False
+823382,2026-05-16,MLB,2026,Pittsburgh Pirates,Philadelphia Phillies,0,6,False
+823627,2026-05-16,MLB,2026,New York Mets,New York Yankees,6,3,False
+823706,2026-05-16,MLB,2026,Minnesota Twins,Milwaukee Brewers,1,2,False
+824038,2026-05-16,MLB,2026,Los Angeles Angels,Los Angeles Dodgers,2,15,False
+824193,2026-05-16,MLB,2026,Houston Astros,Texas Rangers,4,1,False
+824278,2026-05-16,MLB,2026,Detroit Tigers,Toronto Blue Jays,1,2,False
+824359,2026-05-16,MLB,2026,Colorado Rockies,Arizona Diamondbacks,4,2,False
+824435,2026-05-16,MLB,2026,Cleveland Guardians,Cincinnati Reds,7,4,False
+824600,2026-05-16,MLB,2026,Chicago White Sox,Chicago Cubs,8,3,False
+824924,2026-05-16,MLB,2026,Atlanta Braves,Boston Red Sox,2,3,False
+825007,2026-05-16,MLB,2026,Athletics,San Francisco Giants,4,6,False
+822738,2026-05-17,MLB,2026,Washington Nationals,Baltimore Orioles,3,7,False
+822982,2026-05-17,MLB,2026,Tampa Bay Rays,Miami Marlins,6,3,False
+823058,2026-05-17,MLB,2026,St. Louis Cardinals,Kansas City Royals,0,2,False
+823138,2026-05-17,MLB,2026,Seattle Mariners,San Diego Padres,0,0,False
+823381,2026-05-17,MLB,2026,Pittsburgh Pirates,Philadelphia Phillies,0,6,False
+823628,2026-05-17,MLB,2026,New York Mets,New York Yankees,7,6,False
+823708,2026-05-17,MLB,2026,Minnesota Twins,Milwaukee Brewers,5,4,False
+824034,2026-05-17,MLB,2026,Los Angeles Angels,Los Angeles Dodgers,1,7,False
+824192,2026-05-17,MLB,2026,Houston Astros,Texas Rangers,0,8,False
+824279,2026-05-17,MLB,2026,Detroit Tigers,Toronto Blue Jays,1,4,False
+824358,2026-05-17,MLB,2026,Colorado Rockies,Arizona Diamondbacks,0,0,False
+824436,2026-05-17,MLB,2026,Cleveland Guardians,Cincinnati Reds,10,3,False
+824599,2026-05-17,MLB,2026,Chicago White Sox,Chicago Cubs,9,8,False
+824923,2026-05-17,MLB,2026,Atlanta Braves,Boston Red Sox,8,1,False
+825006,2026-05-17,MLB,2026,Athletics,San Francisco Giants,1,2,False
