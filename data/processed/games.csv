@@ -979,8 +979,8 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 824034,2026-05-17,MLB,2026,Los Angeles Angels,Los Angeles Dodgers,1,7,False
 824192,2026-05-17,MLB,2026,Houston Astros,Texas Rangers,0,8,False
 824279,2026-05-17,MLB,2026,Detroit Tigers,Toronto Blue Jays,1,4,False
-824358,2026-05-17,MLB,2026,Colorado Rockies,Arizona Diamondbacks,0,2,False
+824358,2026-05-17,MLB,2026,Colorado Rockies,Arizona Diamondbacks,2,7,False
 824436,2026-05-17,MLB,2026,Cleveland Guardians,Cincinnati Reds,10,3,False
 824599,2026-05-17,MLB,2026,Chicago White Sox,Chicago Cubs,9,8,False
 824923,2026-05-17,MLB,2026,Atlanta Braves,Boston Red Sox,8,1,False
-825006,2026-05-17,MLB,2026,Athletics,San Francisco Giants,1,2,False
+825006,2026-05-17,MLB,2026,Athletics,San Francisco Giants,1,5,False
