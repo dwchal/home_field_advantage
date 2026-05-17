@@ -694,7 +694,7 @@ game_id,date,season,home_team,away_team,home_score,away_score,neutral_site
 824599,2026-05-17,2026,Chicago White Sox,Chicago Cubs,9,8,false
 823708,2026-05-17,2026,Minnesota Twins,Milwaukee Brewers,5,4,false
 823058,2026-05-17,2026,St. Louis Cardinals,Kansas City Royals,0,2,false
-824358,2026-05-17,2026,Colorado Rockies,Arizona Diamondbacks,0,0,false
+824358,2026-05-17,2026,Colorado Rockies,Arizona Diamondbacks,0,2,false
 825006,2026-05-17,2026,Athletics,San Francisco Giants,1,2,false
 824034,2026-05-17,2026,Los Angeles Angels,Los Angeles Dodgers,1,7,false
 823138,2026-05-17,2026,Seattle Mariners,San Diego Padres,0,0,false
