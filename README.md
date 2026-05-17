@@ -46,6 +46,34 @@ python3 scripts/run_daily.py
 
 If API sources are not configured, the script falls back to local files in `data/raw/`. If no raw CSV files are present, it still creates an empty processed file and a report describing the no-data state.
 
+The daily writer merges new rows into `data/raw/<league>_games.csv` keyed by
+`game_id` — it never overwrites prior history — so historical seasons added by
+the backfill below stay put across daily runs.
+
+## One-time historical backfill
+
+`scripts/backfill_history.py` pulls every season each free API exposes and merges
+the results into the per-league raw CSVs. Run it once, then let the daily cron
+extend the dataset forward.
+
+```bash
+python3 scripts/backfill_history.py                       # all four leagues, full history
+python3 scripts/backfill_history.py --leagues mlb,nhl     # subset
+python3 scripts/backfill_history.py --mlb-from 1950 --to 2024
+```
+
+Default per-league floors (free data only):
+
+| League | From | Source |
+|--------|------|--------|
+| MLB    | 1901 | statsapi.mlb.com (no key) |
+| NHL    | 1917 | api-web.nhle.com (no key) |
+| NBA    | 1946 | api.balldontlie.io (requires `BALLDONTLIE_API_KEY`; some free tiers cap historical reach) |
+| NFL    | 1970 | site.api.espn.com (no key; pre-1970 coverage is too sparse to be useful) |
+
+The full backfill takes a while (NHL iterates weekly windows across ~108
+seasons). Use `--sleep` to dial the per-request delay if you hit rate limits.
+
 Each run produces:
 
 - `reports/<YYYY-MM-DD>.md` — the day's markdown report.
