@@ -172,15 +172,38 @@ _ADAPTERS: dict[str, Callable[[bytes], list[dict[str, Any]]]] = {
 }
 
 
-def _write_records_to_csv(records: list[dict[str, Any]], output_file: Path) -> None:
-    if not records:
+def merge_records_into_csv(records: list[dict[str, Any]], output_file: Path) -> None:
+    """Merge records into the existing CSV by ``game_id``, preserving prior rows.
+
+    Incoming records win on conflict — that's how a daily refresh picks up final
+    scores for a game that was previously in-progress, without dropping
+    historical games that aren't in the current API window.
+    """
+    if not records and not output_file.exists():
         return
     output_file.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = list(records[0].keys())
+
+    existing: dict[str, dict[str, Any]] = {}
+    if output_file.exists():
+        with output_file.open("r", newline="", encoding="utf-8") as handle:
+            for row in csv.DictReader(handle):
+                existing[row["game_id"]] = row
+
+    incoming = {str(r["game_id"]): r for r in records}
+    combined = {**existing, **incoming}
+    if not combined:
+        return
+
+    rows = sorted(combined.values(), key=lambda r: (r.get("date", ""), r["game_id"]))
+    fieldnames = list(rows[0].keys())
     with output_file.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(records)
+        writer.writerows(rows)
+
+
+def _write_records_to_csv(records: list[dict[str, Any]], output_file: Path) -> None:
+    merge_records_into_csv(records, output_file)
 
 
 def _write_csv_bytes(raw_bytes: bytes, output_file: Path) -> None:
