@@ -106,8 +106,50 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 401772864,2025-10-19,NFL,2025,Dallas Cowboys,Washington Commanders,44,22,False
 401772816,2025-10-20,NFL,2025,Detroit Lions,Tampa Bay Buccaneers,24,9,False
 401772924,2025-10-20,NFL,2025,San Francisco 49ers,Atlanta Falcons,20,10,False
+18446819,2025-10-21,NBA,2025,Oklahoma City Thunder,Houston Rockets,125,124,False
+18446820,2025-10-21,NBA,2025,Los Angeles Lakers,Golden State Warriors,109,119,False
 401772826,2025-10-21,NFL,2025,Seattle Seahawks,Houston Texans,27,19,False
+18446821,2025-10-22,NBA,2025,New York Knicks,Cleveland Cavaliers,119,111,False
+18446822,2025-10-22,NBA,2025,Dallas Mavericks,San Antonio Spurs,92,125,False
+18446823,2025-10-22,NBA,2025,Charlotte Hornets,Brooklyn Nets,136,117,False
+18446824,2025-10-22,NBA,2025,Orlando Magic,Miami Heat,125,121,False
+18446825,2025-10-22,NBA,2025,Atlanta Hawks,Toronto Raptors,118,138,False
+18446826,2025-10-22,NBA,2025,Boston Celtics,Philadelphia 76ers,116,117,False
+18446827,2025-10-22,NBA,2025,Chicago Bulls,Detroit Pistons,115,111,False
+18446828,2025-10-22,NBA,2025,Memphis Grizzlies,New Orleans Pelicans,128,122,False
+18446829,2025-10-22,NBA,2025,Milwaukee Bucks,Washington Wizards,133,120,False
+18446830,2025-10-22,NBA,2025,Utah Jazz,LA Clippers,129,108,False
+18446831,2025-10-22,NBA,2025,Phoenix Suns,Sacramento Kings,120,116,False
+18446832,2025-10-22,NBA,2025,Portland Trail Blazers,Minnesota Timberwolves,114,118,False
+18446833,2025-10-23,NBA,2025,Indiana Pacers,Oklahoma City Thunder,135,141,False
+18446834,2025-10-23,NBA,2025,Golden State Warriors,Denver Nuggets,137,131,False
+18446835,2025-10-24,NBA,2025,New York Knicks,Boston Celtics,105,95,False
+18446836,2025-10-24,NBA,2025,Los Angeles Lakers,Minnesota Timberwolves,128,110,False
+18446837,2025-10-24,NBA,2025,Orlando Magic,Atlanta Hawks,107,111,False
+18446838,2025-10-24,NBA,2025,Brooklyn Nets,Cleveland Cavaliers,124,131,False
+18446839,2025-10-24,NBA,2025,Toronto Raptors,Milwaukee Bucks,116,122,False
+18446840,2025-10-24,NBA,2025,Houston Rockets,Detroit Pistons,111,115,False
+18446841,2025-10-24,NBA,2025,Memphis Grizzlies,Miami Heat,114,146,False
+18446842,2025-10-24,NBA,2025,New Orleans Pelicans,San Antonio Spurs,116,120,False
+18446843,2025-10-24,NBA,2025,Dallas Mavericks,Washington Wizards,107,117,False
+18446844,2025-10-24,NBA,2025,Portland Trail Blazers,Golden State Warriors,139,119,False
+18446845,2025-10-24,NBA,2025,Sacramento Kings,Utah Jazz,105,104,False
+18446846,2025-10-24,NBA,2025,LA Clippers,Phoenix Suns,129,102,False
 401772942,2025-10-24,NFL,2025,Los Angeles Chargers,Minnesota Vikings,37,10,False
+18446847,2025-10-25,NBA,2025,Orlando Magic,Chicago Bulls,98,110,False
+18446848,2025-10-25,NBA,2025,Atlanta Hawks,Oklahoma City Thunder,100,117,False
+18446849,2025-10-25,NBA,2025,Philadelphia 76ers,Charlotte Hornets,125,121,False
+18446850,2025-10-25,NBA,2025,Memphis Grizzlies,Indiana Pacers,128,103,False
+18446851,2025-10-25,NBA,2025,Denver Nuggets,Phoenix Suns,133,111,False
+18446852,2025-10-26,NBA,2025,San Antonio Spurs,Brooklyn Nets,118,107,False
+18446853,2025-10-26,NBA,2025,Detroit Pistons,Boston Celtics,119,113,False
+18446854,2025-10-26,NBA,2025,Cleveland Cavaliers,Milwaukee Bucks,118,113,False
+18446855,2025-10-26,NBA,2025,Miami Heat,New York Knicks,115,107,False
+18446856,2025-10-26,NBA,2025,Washington Wizards,Charlotte Hornets,113,139,False
+18446857,2025-10-26,NBA,2025,Minnesota Timberwolves,Indiana Pacers,114,110,False
+18446858,2025-10-26,NBA,2025,Dallas Mavericks,Toronto Raptors,139,129,False
+18446859,2025-10-26,NBA,2025,LA Clippers,Portland Trail Blazers,114,107,False
+18446860,2025-10-26,NBA,2025,Sacramento Kings,Los Angeles Lakers,120,127,False
 401772758,2025-10-26,NFL,2025,Cincinnati Bengals,New York Jets,38,39,False
 401772759,2025-10-26,NFL,2025,Baltimore Ravens,Chicago Bears,30,16,False
 401772760,2025-10-26,NFL,2025,Atlanta Falcons,Miami Dolphins,10,34,False
@@ -118,9 +160,61 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 401772867,2025-10-26,NFL,2025,Philadelphia Eagles,New York Giants,38,20,False
 401772868,2025-10-26,NFL,2025,New England Patriots,Cleveland Browns,32,13,False
 401772869,2025-10-26,NFL,2025,New Orleans Saints,Tampa Bay Buccaneers,3,23,False
+18446861,2025-10-27,NBA,2025,Detroit Pistons,Cleveland Cavaliers,95,116,False
+18446862,2025-10-27,NBA,2025,Minnesota Timberwolves,Denver Nuggets,114,127,False
+18446863,2025-10-27,NBA,2025,Philadelphia 76ers,Orlando Magic,136,124,False
+18446864,2025-10-27,NBA,2025,Chicago Bulls,Atlanta Hawks,128,123,False
+18446865,2025-10-27,NBA,2025,Houston Rockets,Brooklyn Nets,137,109,False
+18446866,2025-10-27,NBA,2025,New Orleans Pelicans,Boston Celtics,90,122,False
+18446867,2025-10-27,NBA,2025,San Antonio Spurs,Toronto Raptors,121,103,False
+18446868,2025-10-27,NBA,2025,Dallas Mavericks,Oklahoma City Thunder,94,101,False
+18446869,2025-10-27,NBA,2025,Utah Jazz,Phoenix Suns,138,134,False
+18446870,2025-10-27,NBA,2025,Golden State Warriors,Memphis Grizzlies,131,118,False
+18446871,2025-10-27,NBA,2025,Los Angeles Lakers,Portland Trail Blazers,108,122,False
 401772925,2025-10-27,NFL,2025,Pittsburgh Steelers,Green Bay Packers,25,35,False
+18446872,2025-10-28,NBA,2025,Washington Wizards,Philadelphia 76ers,134,139,False
+18446873,2025-10-28,NBA,2025,Miami Heat,Charlotte Hornets,144,117,False
+18446874,2025-10-28,NBA,2025,Milwaukee Bucks,New York Knicks,121,111,False
+18446875,2025-10-28,NBA,2025,Oklahoma City Thunder,Sacramento Kings,107,101,False
+18446876,2025-10-28,NBA,2025,Golden State Warriors,LA Clippers,98,79,False
 401772817,2025-10-28,NFL,2025,Kansas City Chiefs,Washington Commanders,28,7,False
+18446877,2025-10-29,NBA,2025,Boston Celtics,Cleveland Cavaliers,125,105,False
+18446878,2025-10-29,NBA,2025,Detroit Pistons,Orlando Magic,135,116,False
+18446879,2025-10-29,NBA,2025,Brooklyn Nets,Atlanta Hawks,112,117,False
+18446880,2025-10-29,NBA,2025,Toronto Raptors,Houston Rockets,121,139,False
+18446881,2025-10-29,NBA,2025,Chicago Bulls,Sacramento Kings,126,113,False
+18446882,2025-10-29,NBA,2025,Dallas Mavericks,Indiana Pacers,107,105,False
+18446883,2025-10-29,NBA,2025,Denver Nuggets,New Orleans Pelicans,122,88,False
+18446884,2025-10-29,NBA,2025,Utah Jazz,Portland Trail Blazers,134,136,False
+18446885,2025-10-29,NBA,2025,Minnesota Timberwolves,Los Angeles Lakers,115,116,False
+18446886,2025-10-29,NBA,2025,Phoenix Suns,Memphis Grizzlies,113,114,False
+18446887,2025-10-30,NBA,2025,Charlotte Hornets,Orlando Magic,107,123,False
+18446888,2025-10-30,NBA,2025,Milwaukee Bucks,Golden State Warriors,120,110,False
+18446889,2025-10-30,NBA,2025,Oklahoma City Thunder,Washington Wizards,127,108,False
+18446890,2025-10-30,NBA,2025,San Antonio Spurs,Miami Heat,107,101,False
+18446891,2025-10-31,NBA,2025,Indiana Pacers,Atlanta Hawks,108,128,False
+18446892,2025-10-31,NBA,2025,Philadelphia 76ers,Boston Celtics,108,109,False
+18446893,2025-10-31,NBA,2025,Cleveland Cavaliers,Toronto Raptors,101,112,False
+18446894,2025-10-31,NBA,2025,Chicago Bulls,New York Knicks,135,125,False
+18446895,2025-10-31,NBA,2025,Memphis Grizzlies,Los Angeles Lakers,112,117,False
+18446896,2025-10-31,NBA,2025,Phoenix Suns,Utah Jazz,118,96,False
+18446897,2025-10-31,NBA,2025,Portland Trail Blazers,Denver Nuggets,109,107,False
+18446898,2025-10-31,NBA,2025,LA Clippers,New Orleans Pelicans,126,124,False
 401772943,2025-10-31,NFL,2025,Miami Dolphins,Baltimore Ravens,6,28,False
+18446899,2025-11-01,NBA,2025,Milwaukee Bucks,Sacramento Kings,133,135,False
+18446900,2025-11-01,NBA,2025,Charlotte Hornets,Minnesota Timberwolves,105,122,False
+18446901,2025-11-01,NBA,2025,Indiana Pacers,Golden State Warriors,114,109,False
+18446902,2025-11-01,NBA,2025,Washington Wizards,Orlando Magic,94,125,False
+18446903,2025-11-01,NBA,2025,Boston Celtics,Houston Rockets,101,128,False
+18446904,2025-11-01,NBA,2025,Detroit Pistons,Dallas Mavericks,122,110,False
+18446905,2025-11-02,NBA,2025,Oklahoma City Thunder,New Orleans Pelicans,137,106,False
+18446906,2025-11-02,NBA,2025,Brooklyn Nets,Philadelphia 76ers,105,129,False
+18446907,2025-11-02,NBA,2025,Charlotte Hornets,Utah Jazz,126,103,False
+18446908,2025-11-02,NBA,2025,Cleveland Cavaliers,Atlanta Hawks,117,109,False
+18446909,2025-11-02,NBA,2025,Toronto Raptors,Memphis Grizzlies,117,104,False
+18446910,2025-11-02,NBA,2025,New York Knicks,Chicago Bulls,128,116,False
+18446911,2025-11-02,NBA,2025,Phoenix Suns,San Antonio Spurs,130,118,False
+18446912,2025-11-02,NBA,2025,Los Angeles Lakers,Miami Heat,130,120,False
 401772763,2025-11-02,NFL,2025,New England Patriots,Atlanta Falcons,24,23,False
 401772764,2025-11-02,NFL,2025,Tennessee Titans,Los Angeles Chargers,20,27,False
 401772765,2025-11-02,NFL,2025,Cincinnati Bengals,Chicago Bears,42,47,False
@@ -132,6 +226,12 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 401772872,2025-11-02,NFL,2025,Green Bay Packers,Carolina Panthers,13,16,False
 401772873,2025-11-02,NFL,2025,Las Vegas Raiders,Jacksonville Jaguars,29,30,False
 401772874,2025-11-02,NFL,2025,Los Angeles Rams,New Orleans Saints,34,10,False
+18446913,2025-11-03,NBA,2025,Brooklyn Nets,Minnesota Timberwolves,109,125,False
+18446914,2025-11-03,NBA,2025,Indiana Pacers,Milwaukee Bucks,115,117,False
+18446915,2025-11-03,NBA,2025,Boston Celtics,Utah Jazz,103,105,False
+18446916,2025-11-03,NBA,2025,New York Knicks,Washington Wizards,119,102,False
+18446917,2025-11-03,NBA,2025,Houston Rockets,Dallas Mavericks,110,102,False
+18446918,2025-11-03,NBA,2025,Memphis Grizzlies,Detroit Pistons,106,114,False
 401772926,2025-11-03,NFL,2025,Washington Commanders,Seattle Seahawks,14,38,False
 401772818,2025-11-04,NFL,2025,Dallas Cowboys,Arizona Cardinals,17,27,False
 401772944,2025-11-07,NFL,2025,Denver Broncos,Las Vegas Raiders,10,7,False
