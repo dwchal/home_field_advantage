@@ -14,7 +14,7 @@ if str(SRC) not in sys.path:
 from home_field_advantage.analyze.metrics import compute_league_metrics, compute_team_metrics
 from home_field_advantage.ingest.api_ingest import APISource, sync_api_sources
 from home_field_advantage.ingest.csv_ingest import discover_raw_files
-from home_field_advantage.report.markdown_report import build_markdown_report, write_report
+from home_field_advantage.report.markdown_report import build_report, write_report
 from home_field_advantage.transform.normalize import normalize_games, write_processed_games
 
 
@@ -62,12 +62,13 @@ def run() -> None:
     team_metrics = compute_team_metrics(games)
 
     today = date.today()
-    markdown = build_markdown_report(league_metrics, team_metrics, today)
-    report_path = write_report(markdown, reports_dir, today)
+    report = build_report(league_metrics, team_metrics, games, today)
+    report_path = write_report(report, reports_dir, today)
 
     print(f"API sources fetched: {len(fetched_files)}")
     print(f"Raw files discovered: {len(raw_files)}")
     print(f"Games processed: {len(games)}")
+    print(f"Charts written: {len(report.charts)}")
     print(f"Report written: {report_path}")
 
 

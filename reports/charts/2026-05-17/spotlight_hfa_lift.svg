@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="system-ui, -apple-system, sans-serif" font-size="12">
+<rect width="760" height="360" fill="white"/>
+<text x="380.0" y="22" text-anchor="middle" font-size="16" font-weight="600">Home Win % minus Away Win % (Spotlight Teams)</text>
+<rect x="450.0" y="50.9" width="250.0" height="50.8" fill="#2ca02c"/>
+<text x="192" y="80.2" text-anchor="end" fill="#333">Minnesota Twins (MLB)</text>
+<text x="704.0" y="80.2" text-anchor="start" fill="#333">+11.9%</text>
+<rect x="450.0" y="123.4" width="116.7" height="50.8" fill="#2ca02c"/>
+<text x="192" y="152.8" text-anchor="end" fill="#333">Pittsburgh Steelers (NFL)</text>
+<text x="570.7" y="152.8" text-anchor="start" fill="#333">+5.6%</text>
+<rect x="400.0" y="195.9" width="50.0" height="50.8" fill="#d62728"/>
+<text x="192" y="225.2" text-anchor="end" fill="#333">Pittsburgh Pirates (MLB)</text>
+<text x="396.0" y="225.2" text-anchor="end" fill="#333">-2.4%</text>
+<rect x="300.0" y="268.4" width="150.0" height="50.8" fill="#d62728"/>
+<text x="192" y="297.8" text-anchor="end" fill="#333">Minnesota Vikings (NFL)</text>
+<text x="296.0" y="297.8" text-anchor="end" fill="#333">-7.1%</text>
+<line x1="450.0" y1="40" x2="450.0" y2="330" stroke="#444"/>
+</svg>
