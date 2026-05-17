@@ -2,31 +2,39 @@
   "sources": [
     {
       "league": "nfl",
-      "url": "",
-      "format": "csv",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
+      "format": "json",
       "token_env": null,
-      "query": {}
+      "query": {"dates": "20250904-20260210", "limit": "1000"},
+      "adapter": "nfl_espn",
+      "paginated": false
     },
     {
       "league": "nba",
-      "url": "",
-      "format": "csv",
+      "url": "https://api.balldontlie.io/v1/games",
+      "format": "json",
       "token_env": null,
-      "query": {}
+      "query": {"seasons[]": "2025", "per_page": "100"},
+      "adapter": "nba_balldontlie",
+      "paginated": true
     },
     {
       "league": "mlb",
-      "url": "",
-      "format": "csv",
+      "url": "https://statsapi.mlb.com/api/v1/schedule",
+      "format": "json",
       "token_env": null,
-      "query": {}
+      "query": {"sportId": "1", "season": "2026", "gameType": "R", "hydrate": "linescore"},
+      "adapter": "mlb_statsapi",
+      "paginated": false
     },
     {
       "league": "nhl",
-      "url": "",
-      "format": "csv",
+      "url": "https://statsapi.web.nhl.com/api/v1/schedule",
+      "format": "json",
       "token_env": null,
-      "query": {}
+      "query": {"season": "20252026", "gameType": "R"},
+      "adapter": "nhl_statsapi",
+      "paginated": false
     }
   ]
 }
