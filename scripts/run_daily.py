@@ -38,6 +38,8 @@ def load_api_sources(config_file: Path) -> list[APISource]:
                 format=item.get("format", "csv"),
                 token_env=item.get("token_env"),
                 query=item.get("query") or None,
+                adapter=item.get("adapter"),
+                paginated=bool(item.get("paginated", False)),
             )
         )
     return sources
