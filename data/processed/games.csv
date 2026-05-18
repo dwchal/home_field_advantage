@@ -1072,15 +1072,15 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 822738,2026-05-17,MLB,2026,Washington Nationals,Baltimore Orioles,3,7,False
 822982,2026-05-17,MLB,2026,Tampa Bay Rays,Miami Marlins,6,3,False
 823058,2026-05-17,MLB,2026,St. Louis Cardinals,Kansas City Royals,0,2,False
-823138,2026-05-17,MLB,2026,Seattle Mariners,San Diego Padres,0,0,False
+823138,2026-05-17,MLB,2026,Seattle Mariners,San Diego Padres,3,8,False
 823381,2026-05-17,MLB,2026,Pittsburgh Pirates,Philadelphia Phillies,0,6,False
 823628,2026-05-17,MLB,2026,New York Mets,New York Yankees,7,6,False
 823708,2026-05-17,MLB,2026,Minnesota Twins,Milwaukee Brewers,5,4,False
-824034,2026-05-17,MLB,2026,Los Angeles Angels,Los Angeles Dodgers,1,7,False
+824034,2026-05-17,MLB,2026,Los Angeles Angels,Los Angeles Dodgers,1,10,False
 824192,2026-05-17,MLB,2026,Houston Astros,Texas Rangers,0,8,False
 824279,2026-05-17,MLB,2026,Detroit Tigers,Toronto Blue Jays,1,4,False
-824358,2026-05-17,MLB,2026,Colorado Rockies,Arizona Diamondbacks,2,7,False
+824358,2026-05-17,MLB,2026,Colorado Rockies,Arizona Diamondbacks,6,8,False
 824436,2026-05-17,MLB,2026,Cleveland Guardians,Cincinnati Reds,10,3,False
 824599,2026-05-17,MLB,2026,Chicago White Sox,Chicago Cubs,9,8,False
 824923,2026-05-17,MLB,2026,Atlanta Braves,Boston Red Sox,8,1,False
-825006,2026-05-17,MLB,2026,Athletics,San Francisco Giants,1,5,False
+825006,2026-05-17,MLB,2026,Athletics,San Francisco Giants,1,10,False
