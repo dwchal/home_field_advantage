@@ -1084,3 +1084,18 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 824599,2026-05-17,MLB,2026,Chicago White Sox,Chicago Cubs,9,8,False
 824923,2026-05-17,MLB,2026,Atlanta Braves,Boston Red Sox,8,1,False
 825006,2026-05-17,MLB,2026,Athletics,San Francisco Giants,1,10,False
+822734,2026-05-18,MLB,2026,Washington Nationals,New York Mets,7,16,False
+822980,2026-05-18,MLB,2026,Tampa Bay Rays,Baltimore Orioles,16,6,False
+823137,2026-05-18,MLB,2026,Seattle Mariners,Chicago White Sox,6,1,False
+823301,2026-05-18,MLB,2026,San Diego Padres,Los Angeles Dodgers,1,0,False
+823465,2026-05-18,MLB,2026,Philadelphia Phillies,Cincinnati Reds,5,4,False
+823549,2026-05-18,MLB,2026,New York Yankees,Toronto Blue Jays,7,6,False
+823705,2026-05-18,MLB,2026,Minnesota Twins,Houston Astros,6,3,False
+823867,2026-05-18,MLB,2026,Miami Marlins,Atlanta Braves,12,0,False
+824035,2026-05-18,MLB,2026,Los Angeles Angels,Athletics,2,1,False
+824114,2026-05-18,MLB,2026,Kansas City Royals,Boston Red Sox,1,3,False
+824277,2026-05-18,MLB,2026,Detroit Tigers,Cleveland Guardians,2,8,False
+824357,2026-05-18,MLB,2026,Colorado Rockies,Texas Rangers,7,6,False
+824680,2026-05-18,MLB,2026,Chicago Cubs,Milwaukee Brewers,3,9,False
+825087,2026-05-18,MLB,2026,Arizona Diamondbacks,San Francisco Giants,12,2,False
+2025030217,2026-05-18,NHL,20252026,Buffalo Sabres,Montréal Canadiens,2,3,False
