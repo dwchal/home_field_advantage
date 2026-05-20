@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="system-ui, -apple-system, sans-serif" font-size="12">
+<rect width="760" height="360" fill="white"/>
+<text x="380.0" y="22" text-anchor="middle" font-size="16" font-weight="600">Season-to-date Home Win % (Spotlight Teams)</text>
+<line x1="60" y1="310.0" x2="560" y2="310.0" stroke="#eee"/>
+<text x="54" y="314.0" text-anchor="end" fill="#666">0%</text>
+<line x1="60" y1="242.5" x2="560" y2="242.5" stroke="#eee"/>
+<text x="54" y="246.5" text-anchor="end" fill="#666">25%</text>
+<line x1="60" y1="175.0" x2="560" y2="175.0" stroke="#eee"/>
+<text x="54" y="179.0" text-anchor="end" fill="#666">50%</text>
+<line x1="60" y1="107.5" x2="560" y2="107.5" stroke="#eee"/>
+<text x="54" y="111.5" text-anchor="end" fill="#666">75%</text>
+<line x1="60" y1="40.0" x2="560" y2="40.0" stroke="#eee"/>
+<text x="54" y="44.0" text-anchor="end" fill="#666">100%</text>
+<line x1="60.0" y1="310" x2="60.0" y2="314" stroke="#999"/>
+<text x="60.0" y="328" text-anchor="middle" fill="#666">2025-09-14</text>
+<line x1="185.0" y1="310" x2="185.0" y2="314" stroke="#999"/>
+<text x="185.0" y="328" text-anchor="middle" fill="#666">2025-11-15</text>
+<line x1="310.0" y1="310" x2="310.0" y2="314" stroke="#999"/>
+<text x="310.0" y="328" text-anchor="middle" fill="#666">2026-01-16</text>
+<line x1="435.0" y1="310" x2="435.0" y2="314" stroke="#999"/>
+<text x="435.0" y="328" text-anchor="middle" fill="#666">2026-03-18</text>
+<line x1="560.0" y1="310" x2="560.0" y2="314" stroke="#999"/>
+<text x="560.0" y="328" text-anchor="middle" fill="#666">2026-05-19</text>
+<line x1="60" y1="40" x2="60" y2="310" stroke="#444"/>
+<line x1="60" y1="310" x2="560" y2="310" stroke="#444"/>
+<line x1="60" y1="175.0" x2="560" y2="175.0" stroke="#bbb" stroke-dasharray="4,4"/>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="145.0,40.0 147.0,175.0 151.1,220.0"/>
+<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="466.9,40.0 468.9,175.0 470.9,220.0 473.0,175.0 475.0,148.0 477.0,130.0 479.0,117.1 487.1,107.5 489.1,100.0 491.2,121.0 495.2,138.2 497.2,152.5 499.3,164.6 515.5,155.7 517.5,166.0 519.5,175.0 521.5,167.1 523.6,175.0 525.6,182.1 527.6,175.0 545.8,168.6 547.9,175.0 549.9,169.1 551.9,175.0 553.9,180.4 556.0,175.0 558.0,170.0 560.0,175.0"/>
+<polyline fill="none" stroke="#2ca02c" stroke-width="2" points="62.0,310.0 74.2,175.0 130.9,220.0 173.4,242.5 187.5,256.0 230.0,220.0 266.5,194.3 286.7,175.0"/>
+<polyline fill="none" stroke="#d62728" stroke-width="2" points="466.9,40.0 468.9,40.0 470.9,40.0 473.0,107.5 475.0,94.0 477.0,130.0 487.1,117.1 489.1,141.2 491.2,130.0 493.2,148.0 495.2,138.2 497.2,152.5 499.3,143.8 515.5,155.7 517.5,166.0 519.5,175.0 521.5,182.9 523.6,175.0 525.6,167.9 527.6,161.5 545.8,155.7 547.9,162.7 549.9,157.4 551.9,163.8 553.9,169.6 556.0,175.0"/>
+<polyline fill="none" stroke="#9467bd" stroke-width="2" points="60.0,310.0 116.7,175.0 147.0,220.0 159.2,175.0 187.5,148.0 215.9,175.0 248.3,155.7 288.7,141.2 304.9,160.0"/>
+<rect x="576" y="31" width="12" height="12" fill="#1f77b4"/>
+<text x="594" y="41" fill="#333">Minnesota Timberwolves</text>
+<rect x="576" y="51" width="12" height="12" fill="#ff7f0e"/>
+<text x="594" y="61" fill="#333">Minnesota Twins</text>
+<rect x="576" y="71" width="12" height="12" fill="#2ca02c"/>
+<text x="594" y="81" fill="#333">Minnesota Vikings</text>
+<rect x="576" y="91" width="12" height="12" fill="#d62728"/>
+<text x="594" y="101" fill="#333">Pittsburgh Pirates</text>
+<rect x="576" y="111" width="12" height="12" fill="#9467bd"/>
+<text x="594" y="121" fill="#333">Pittsburgh Steelers</text>
+</svg>
