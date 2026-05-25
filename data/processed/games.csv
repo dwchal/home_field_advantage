@@ -1168,3 +1168,19 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 824920,2026-05-23,MLB,2026,Atlanta Braves,Washington Nationals,0,2,False
 825080,2026-05-23,MLB,2026,Arizona Diamondbacks,Colorado Rockies,5,4,False
 2025030312,2026-05-23,NHL,20252026,Carolina Hurricanes,Montréal Canadiens,3,2,False
+822813,2026-05-24,MLB,2026,Toronto Blue Jays,Pittsburgh Pirates,1,4,False
+823220,2026-05-24,MLB,2026,San Francisco Giants,Chicago White Sox,8,5,False
+823297,2026-05-24,MLB,2026,San Diego Padres,Athletics,2,5,False
+823459,2026-05-24,MLB,2026,Philadelphia Phillies,Cleveland Guardians,1,3,False
+823544,2026-05-24,MLB,2026,New York Yankees,Tampa Bay Rays,2,0,False
+823786,2026-05-24,MLB,2026,Milwaukee Brewers,Los Angeles Dodgers,1,5,False
+823861,2026-05-24,MLB,2026,Miami Marlins,New York Mets,4,0,False
+824028,2026-05-24,MLB,2026,Los Angeles Angels,Texas Rangers,2,1,False
+824108,2026-05-24,MLB,2026,Kansas City Royals,Seattle Mariners,8,6,False
+824676,2026-05-24,MLB,2026,Chicago Cubs,Houston Astros,5,8,False
+824759,2026-05-24,MLB,2026,Boston Red Sox,Minnesota Twins,5,6,False
+824839,2026-05-24,MLB,2026,Baltimore Orioles,Detroit Tigers,5,3,False
+824840,2026-05-24,MLB,2026,Baltimore Orioles,Detroit Tigers,1,4,False
+824921,2026-05-24,MLB,2026,Atlanta Braves,Washington Nationals,1,2,False
+825081,2026-05-24,MLB,2026,Arizona Diamondbacks,Colorado Rockies,9,1,False
+2025030323,2026-05-24,NHL,20252026,Vegas Golden Knights,Colorado Avalanche,5,3,False
