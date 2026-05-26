@@ -1184,3 +1184,17 @@ game_id,date,league,season,home_team,away_team,home_score,away_score,neutral_sit
 824921,2026-05-24,MLB,2026,Atlanta Braves,Washington Nationals,1,2,False
 825081,2026-05-24,MLB,2026,Arizona Diamondbacks,Colorado Rockies,9,1,False
 2025030323,2026-05-24,NHL,20252026,Vegas Golden Knights,Colorado Avalanche,5,3,False
+822812,2026-05-25,MLB,2026,Toronto Blue Jays,Miami Marlins,2,8,False
+822899,2026-05-25,MLB,2026,Texas Rangers,Houston Astros,0,9,False
+823219,2026-05-25,MLB,2026,San Francisco Giants,Arizona Diamondbacks,2,6,False
+823296,2026-05-25,MLB,2026,San Diego Padres,Philadelphia Phillies,0,3,False
+823380,2026-05-25,MLB,2026,Pittsburgh Pirates,Chicago Cubs,2,1,False
+823625,2026-05-25,MLB,2026,New York Mets,Cincinnati Reds,2,7,False
+823784,2026-05-25,MLB,2026,Milwaukee Brewers,St. Louis Cardinals,5,1,False
+823948,2026-05-25,MLB,2026,Los Angeles Dodgers,Colorado Rockies,5,3,False
+824107,2026-05-25,MLB,2026,Kansas City Royals,New York Yankees,3,4,False
+824437,2026-05-25,MLB,2026,Cleveland Guardians,Washington Nationals,2,10,False
+824598,2026-05-25,MLB,2026,Chicago White Sox,Minnesota Twins,3,1,False
+824838,2026-05-25,MLB,2026,Baltimore Orioles,Tampa Bay Rays,9,7,False
+825005,2026-05-25,MLB,2026,Athletics,Seattle Mariners,2,9,False
+2025030313,2026-05-25,NHL,20252026,Montréal Canadiens,Carolina Hurricanes,2,3,False
